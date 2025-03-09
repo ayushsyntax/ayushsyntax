@@ -9,7 +9,7 @@
 • Python | C++ | C | SQL  
 • Machine Learning | Data Science  
 • Pandas | NumPy  | Scikit-Learn  
-• Power BI | Matplotlib | Seaborn | Plotly 
+• Power BI | Matplotlib | Seaborn | Plotly
 • Git | GitHub | VS Code  
 
 📂 **Notable Projects**  
