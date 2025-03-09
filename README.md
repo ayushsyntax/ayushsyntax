@@ -1,58 +1,60 @@
-<!-- ⚫⚪ Ayush Kumar | Minimal, Mysterious & Impactful Profile ⚪⚫ -->
+<!-- Ayush Kumar | Data Scientist | AI & ML Enthusiast -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=800&color=E0E0E0&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Code.+Analyze.+Create.;%F0%9F%8C%8F+Exploring+AI+%26+ML;_%2F%2F_Data+%2B+Vision+%3D+Future_;>>>+echo+'Welcome+to+My+World!';>>>_">
-</h1>
+<h1 align="center">Ayush Kumar</h1>
+<p align="center">
+  <b>Data Science | Machine Learning | Business Intelligence</b>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=yellow" />
+  <a href="https://www.linkedin.com/in/ayush-kumar-0a7b85303">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/AyushSyntax">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://github.com/Ayushsyntax">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### **𝘞𝘩𝘰 𝘈𝘮 𝘐?**  
-⚡ **Code Architect. Data Strategist. AI Explorer.**  
-📊 **Building with Data, ML & Cloud AI**  
-🛠 **Bridging Analysis & Engineering**  
+## **🔹 About Me**
+🚀 **Passionate about AI, Data Science, and Business Intelligence**  
+📊 **Specializing in Data Analysis, Predictive Modeling, and Power BI**  
+💡 **Bridging the gap between raw data and impactful decisions**  
 
-> ❝ 𝘔𝘢𝘤𝘩𝘪𝘯𝘦𝘴 𝘤𝘢𝘯 𝘭𝘦𝘢𝘳𝘯, 𝘣𝘶𝘵 𝘐 𝘵𝘦𝘢𝘤𝘩 𝘵𝘩𝘦𝘮 𝘩𝘰𝘸. ❞  
-
----
-
-### **💾 Stack I Work With**
-🛠 **Languages:** Python, C++/C 
-📊 **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Plotly 
-🤖 **ML & AI:** Scikit-Learn  
-🌐 **Cloud AI:** Google Cloud AI  
-🔧 **Tools:** Git, VS Code, Jupyter, Power BI  
+> **"Transforming complexity into clarity, one dataset at a time."**
 
 ---
 
-### **🚀 What I’m Up To**
-🧠 **Solving real-world AI challenges**  
-🎯 **Enhancing ML models with better features**  
-📌 **Cracking DSA & System Design**  
+## **⚡ Core Skills**
+📌 **Programming**: Python, C++/C  
+📌 **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib, Plotly  
+📌 **Machine Learning**: Scikit-Learn  
+📌 **Data Visualization**: Power BI, Matplotlib  
+📌 **Tools & Platforms**: Git, Jupyter Notebook, VS Code  
 
 ---
 
-### **🎨 Featured Work**
-> 🏆 **Machine Learning Projects**  
-📌 **[Credit Score Classification](https://github.com/Ayushsyntax/Credit-Score-Classification)**  
-📌 **[EDA on US Accidents (7.7M Records)](https://github.com/Ayushsyntax/EDA-US-Accidents)**  
-📌 **[Blinkit Sales Analysis (Power BI)](https://github.com/Ayushsyntax/Blinkit-Analysis)**  
+## **📌 Featured Projects**
+🔹 **[Credit Score Classification](https://github.com/Ayushsyntax/Credit-Score-Classification)** – Enhancing financial risk assessment through ML  
+🔹 **[EDA on US Accidents](https://github.com/Ayushsyntax/EDA-US-Accidents)** – Analyzing 7.7M accident records for trend insights  
+🔹 **[Blinkit Sales Dashboard](https://github.com/Ayushsyntax/Blinkit-Analysis)** – Data-driven decision-making with Power BI  
 
 ---
 
-### **⚡ Let’s Connect**
-📩 **LinkedIn:** [Ayush Kumar](https://www.linkedin.com/in/ayush-kumar-0a7b85303)  
-📌 **GitHub:** [Ayushsyntax](https://github.com/Ayushsyntax)  
-
----
-
-<h3 align="center">⭐ If this caught your attention, let’s build something together! ⭐</h3>
-
+## **📈 GitHub Stats**
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=500&color=808080&center=true&vCenter=true&width=500&lines=>>>+Keep+Coding.+Keep+Exploring." alt="Typing SVG">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayushsyntax&theme=graywhite&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsyntax&layout=compact&theme=graywhite&hide_border=true" width="40%">
 </p>
+
+---
+
+## **📫 Connect with Me**
+📍 **LinkedIn**: [Ayush Kumar](https://www.linkedin.com/in/ayush-kumar-0a7b85303)    
+📌 **GitHub**: [Ayushsyntax](https://github.com/Ayushsyntax)  
+
+---
+
