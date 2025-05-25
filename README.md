@@ -1,30 +1,30 @@
-<h1 align="center">Ayush Kumar</h1>
+<h1 align="center">Hi, I'm Ayush</h1>
 
 <p align="center">
-  <em>AI & Data Science · Machine Learning · Data-Driven Thinking</em>
+  AI & Data Science · Machine Learning · Data-Driven Thinking
 </p>
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- Currently pursuing B.Tech in AI & Data Science (2023–2027)
-- Exploring Machine Learning, Data Analysis, and Algorithms
-- Contributor at GirlScript Summer of Code (GSSoC) 2024
-- Focused on clarity, simplicity, and continuous improvement
-
----
-
-### 🛠️ Tools & Technologies
-
-- **Languages:** Python · C++
-- **ML & Data:** Scikit-learn · Pandas · NumPy · Seaborn · Plotly
-- **Tools:** Power BI · Jupyter Notebook · VS Code · Git & GitHub
-- **Core Areas:** ML Modeling · EDA · Visualization · Statistics
+- B.Tech student in AI & Data Science (2023–2027)  
+- Exploring Machine Learning, Data Analysis, and Algorithms  
+- Contributor at GirlScript Summer of Code (GSSoC) 2024  
+- Focused on simplicity, precision, and continuous growth  
 
 ---
 
-### 🌐 Connect With Me
+### Tools & Technologies
+
+- **Languages:** Python · C++  
+- **ML & Data:** Scikit-learn · Pandas · NumPy · Seaborn · Plotly  
+- **Tools:** Power BI · Jupyter Notebook · VS Code · Git & GitHub  
+- **Core Areas:** ML Modeling · EDA · Visualization · Statistics  
+
+---
+
+### Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/ayush-kumar-0a7b85303" target="_blank">
@@ -40,4 +40,4 @@
 
 ---
 
-<p align="center"><em>"Less noise. More clarity. Just code and curiosity."</em></p>
+<p align="center"><em>Less noise. More clarity. Just code and curiosity.</em></p>
