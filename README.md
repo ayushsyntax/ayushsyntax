@@ -1,53 +1,43 @@
-<h1 align="center">Hi, I'm Ayush Kumar! 👋</h1>
+<h1 align="center">Ayush Kumar</h1>
 
 <p align="center">
-  <em>B.Tech in AI & Data Science | Aspiring Data Scientist | ML & Data Enthusiast</em>
+  <em>AI & Data Science · Machine Learning · Data-Driven Thinking</em>
 </p>
 
 ---
 
-### 📊 About Me
-- 🎓 **2nd-Year AI & Data Science Student (2023-2027)**
-- 🧠 Focused on **Machine Learning**, **EDA**, and **Data Structures & Algorithms**
-- 💡 Contributor at **GirlScript Summer of Code (GSSoC) 2024**
-- 📊 Built dynamic **Power BI Dashboards** and conducted **EDA** on large datasets
+### 🧠 About Me
+
+- Currently pursuing B.Tech in AI & Data Science (2023–2027)
+- Exploring Machine Learning, Data Analysis, and Algorithms
+- Contributor at GirlScript Summer of Code (GSSoC) 2024
+- Focused on clarity, simplicity, and continuous improvement
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tools & Technologies
 
-- **Languages:** Python, C++
-- **Libraries/Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn
-- **Tools:** Power BI, Jupyter Notebook, VS Code, Git & GitHub
-- **ML Techniques:** Supervised & Unsupervised Learning, Ensemble Models
-- **Data Analysis:** Exploratory Data Analysis (EDA), Statistical Insights
-
----
-
-### 🚀 Projects
-
-- 🔢 **Binary Rainfall Prediction**: Achieved 86% accuracy using Random Forest & LightGBM
-- 📊 **US Road Accident Analysis**: Analyzed 7.7M records to uncover accident patterns
-- 📈 **Blinkit Sales Dashboard**: Created a Power BI dashboard to track product sales
-
-> Explore more in my [**Projects Repository**](https://github.com/Ayushsyntax)
+- **Languages:** Python · C++
+- **ML & Data:** Scikit-learn · Pandas · NumPy · Seaborn · Plotly
+- **Tools:** Power BI · Jupyter Notebook · VS Code · Git & GitHub
+- **Core Areas:** ML Modeling · EDA · Visualization · Statistics
 
 ---
 
-### 📫 Let's Connect
+### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayush-kumar-0a7b85303" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="center">
+  <a href="https://linkedin.com/in/ayush-kumar-0a7b85303" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Ayushsyntax" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://x.com/AyushSyntax" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
 ---
 
-<p align="center">"Passionate about transforming data into actionable insights. Always learning, always evolving." 🚀</p>
+<p align="center"><em>"Less noise. More clarity. Just code and curiosity."</em></p>
