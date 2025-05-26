@@ -1,6 +1,6 @@
 <div style="font-family: 'Georgia', serif; color: #4a4a4a; max-width: 600px; margin: 40px auto; padding: 30px; border: 1px solid #d4c8b0; background-color: #fdfbf7; box-shadow: 0 0 15px rgba(0,0,0,0.05);">
 
-  <h1 align="center" style="font-family: 'Times New Roman', serif; font-weight: normal; color: #333333; font-size: 2.5em; margin-bottom: 10px;">Ayush</h1>
+  <h1 align="center" style="font-family: 'Times New Roman', serif; font-weight: normal; color: #333333; font-size: 2.5em; margin-bottom: 10px;">Hi, I'm Ayush</h1>
   <p align="center" style="font-family: 'Garamond', serif; font-size: 1.2em; color: #5c5c5c; margin-top: 0; margin-bottom: 25px;">
     Student of Artificial Intelligence & Data Science
   </p>
