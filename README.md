@@ -1,32 +1,39 @@
-<div style="font-family: 'Georgia', serif; color: #4a4a4a; max-width: 600px; margin: 40px auto; padding: 30px; border: 1px solid #d4c8b0; background-color: #fdfbf7; box-shadow: 0 0 15px rgba(0,0,0,0.05);">
+# Hi, I'm Ayush 👋
 
-  <h1 align="center" style="font-family: 'Times New Roman', serif; font-weight: normal; color: #333333; font-size: 2.5em; margin-bottom: 10px;">Hi, I'm Ayush</h1>
-  <p align="center" style="font-family: 'Garamond', serif; font-size: 1.2em; color: #5c5c5c; margin-top: 0; margin-bottom: 25px;">
-    Student of Artificial Intelligence & Data Science
-  </p>
+<p align="center">
+  <a href="https://github.com/Ayushsyntax">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ayushsyntax&show_icons=true&theme=radical" alt="Ayush's GitHub stats" />
+  </a>
+</p>
 
-  <hr style="width:50%; margin: 30px auto; border:0; border-top: 1px solid #d4c8b0;">
+I am a B.Tech student pursuing Artificial Intelligence & Data Science (2023–2027), deeply curious about the hidden patterns in data and passionate about building intelligent systems. My goal is to become a top-tier engineer, leveraging my skills to build impactful and resourceful solutions for the future.
 
-  <h3 style="font-family: 'Times New Roman', serif; font-weight: normal; color: #333333; font-size: 1.6em; text-align: center; margin-bottom: 15px;">✦ About Me ✦</h3>
-  <p style="font-family: 'Garamond', serif; font-size: 1.1em; line-height: 1.7; text-align: justify; color: #525252; padding: 0 20px;">
-    I am a B.Tech student pursuing Artificial Intelligence & Data Science (2023–2027), deeply curious about the hidden patterns in data and passionate about building intelligent systems. My endeavors include contributing to the GirlScript Summer of Code (GSSoC) 2024, and I maintain a profound focus on Machine Learning, Data Analysis, and Algorithms.
-  </p>
+---
 
-  <hr style="width:50%; margin: 35px auto; border:0; border-top: 1px solid #d4c8b0;">
+### Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/ayush-kumar-0a7b85303" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ayush-kumar-0a7b85303" /></a>
+<a href="https://x.com/AyushSyntax" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="AyushSyntax" /></a>
+</p>
 
-  <h3 style="font-family: 'Times New Roman', serif; font-weight: normal; color: #333333; font-size: 1.6em; text-align: center; margin-bottom: 20px;">✦ Let Us Connect ✦</h3>
-  <div style="text-align: center; font-family: 'Garamond', serif; font-size: 1.1em; line-height: 1.8;">
-    <a href="https://linkedin.com/in/ayush-kumar-0a7b85303" target="_blank" style="color: #5a4a3b; text-decoration: none; margin: 0 10px; border-bottom: 1px dotted #8c7b65;">LinkedIn</a>
-    <span style="color: #d4c8b0;">&middot;</span>
-    <a href="https://github.com/Ayushsyntax" target="_blank" style="color: #5a4a3b; text-decoration: none; margin: 0 10px; border-bottom: 1px dotted #8c7b65;">GitHub</a>
-    <span style="color: #d4c8b0;">&middot;</span>
-    <a href="https://x.com/AyushSyntax" target="_blank" style="color: #5a4a3b; text-decoration: none; margin: 0 10px; border-bottom: 1px dotted #8c7b65;">X (formerly Twitter)</a>
-  </div>
+---
 
-  <hr style="width:50%; margin: 35px auto 25px auto; border:0; border-top: 1px solid #d4c8b0;">
+### My Tech Stack
 
-  <p align="center" style="font-family: 'Georgia', serif; font-style: italic; font-size: 1em; color: #7a7a7a;">
-    "Less noise. More clarity. Just code and curiosity."
-  </p>
+#### Programming Languages
+<p align="left">
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> </a>
+</p>
 
-</div>
+#### Frameworks & Tools
+<p align="left">
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi"/> </a>
+  <a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+  <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/> </a>
+</p>
+
+*Note: The "Machine Learning (all advanced)" skill you mentioned is represented by my focus on AI/Data Science and tools like Scikit-learn.*
