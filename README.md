@@ -1,15 +1,16 @@
 # Hi, I'm Ayush 👋
 
-I’m a B.Tech student in **Artificial Intelligence & Data Science (2023–2027)**.  
-I enjoy working with data, exploring patterns, and building small but meaningful projects.  
-Currently learning more about **deep learning** and improving step by step.  
+I’m a B.Tech student in **Artificial Intelligence & Data Science (2023–2027)**.
+I enjoy working with data, exploring patterns, and building small but meaningful projects.
+Currently learning more about **deep learning** and improving step by step.
 
 ---
 
 ### 🌐 Connect
-- [LinkedIn](https://linkedin.com/in/ayush-kumar-0a7b85303)  
-- [Twitter](https://x.com/AyushSyntax)  
-- [Kaggle](https://www.kaggle.com/ayushsyntax)  
+
+* [LinkedIn](https://linkedin.com/in/ayush-kumar-0a7b85303)
+* [Twitter](https://x.com/AyushSyntax)
+* [Kaggle](https://www.kaggle.com/ayushsyntax)
 
 ---
 
@@ -24,6 +25,8 @@ Currently learning more about **deep learning** and improving step by step.
   <img src="https://img.shields.io/badge/Seaborn-4C8CBF.svg?style=flat"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=flat&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000.svg?style=flat&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white"/>
@@ -34,5 +37,6 @@ Currently learning more about **deep learning** and improving step by step.
 ---
 
 ### ✨
-I keep learning, experimenting, and contributing quietly —  
-focusing on consistency more than numbers.  
+
+Always learning.
+Always building.
