@@ -4,14 +4,14 @@
 
 **B.Tech in Artificial Intelligence & Data Science (2023–2027)**
 
-I work with data, code, and ideas that try to make sense of both.
-Most of my learning comes from small, focused projects — each one a quiet step toward understanding how things really work.
+I work with data, code, and ideas that try to make sense of both.  
+Most of my learning comes from small, focused projects — each one a quiet step toward understanding how things really work.  
 
 Lately, I’ve been exploring **deep learning**, aiming to build a strong foundation before moving into larger systems or research-oriented work.
 
 ---
 
-### 🧩 Tech Stack  
+### 🧩 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
@@ -32,14 +32,13 @@ Lately, I’ve been exploring **deep learning**, aiming to build a strong founda
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-
 ---
 
 ### 🧠 Current Focus
 
-* Understanding the fundamentals of **neural networks** and model behavior
-* Writing **clean, maintainable** code for data-driven projects
-* Learning how to **explain and deploy** models effectively
+- Understanding the fundamentals of **neural networks** and model behavior  
+- Writing **clean, maintainable** code for data-driven projects  
+- Learning how to **explain and deploy** models effectively  
 
 ---
 
