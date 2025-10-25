@@ -1,15 +1,15 @@
----
+***
 
 # Hi, I'm Ayush 👋
 
 **B.Tech in Artificial Intelligence & Data Science (2023–2027)**
 
-I work with data, code, and ideas that try to make sense of both.  
-Most of my learning comes from small, focused projects — each one a quiet step toward understanding how things really work.  
+I work with data, code, and ideas to uncover patterns beneath complexity.  
+Most of my progress comes from small, deliberate projects — each one a quiet step toward understanding how systems truly work.  
 
-Lately, I’ve been exploring **deep learning**, aiming to build a strong foundation before moving into larger systems or research-oriented work.
+Lately, I’ve been diving deeper into **deep learning**, building a strong foundation before stepping into large-scale systems and research-driven work.
 
----
+***
 
 ### 🧩 Tech Stack
 
@@ -32,24 +32,24 @@ Lately, I’ve been exploring **deep learning**, aiming to build a strong founda
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
+***
 
 ### 🧠 Current Focus
 
-- Understanding the fundamentals of **neural networks** and model behavior  
-- Writing **clean, maintainable** code for data-driven projects  
-- Learning how to **explain and deploy** models effectively  
+- Deepening understanding of **neural network** architecture and model dynamics  
+- Writing **clear, scalable, and maintainable** code for data-centric systems  
+- Learning to **communicate, explain, and deploy** models effectively  
 
----
+***
 
 ### 🌐 Elsewhere
 
-[LinkedIn](https://linkedin.com/in/ayush-kumar-0a7b85303) • [X (Twitter)](https://x.com/AyushSyntax) • [Kaggle](https://www.kaggle.com/ayushsyntax)
+[LinkedIn](https://linkedin.com/in/ayush-kumar-0a7b85303) -  [X (Twitter)](https://x.com/AyushSyntax) -  [Kaggle](https://www.kaggle.com/ayushsyntax)
 
----
+***
 
 ### ✳️
 
-I prefer simple code, quiet learning, and building things that make sense — not just things that impress.
+I value clarity over complexity, calm learning over noise, and building things that make sense — not just things that impress.
 
----
+***
