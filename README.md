@@ -1,85 +1,53 @@
 # Hi, I'm Ayush 👋  
-**B.Tech in Artificial Intelligence & Data Science (2023–2027)**  
-📍 Delhi, India | 🌐 [LinkedIn](https://linkedin.com/in/ayush-kumar-0a7b85303)
+**B.Tech in Artificial Intelligence & Data Science (2023–2027)**
 
 I work with data, code, and ideas to uncover patterns beneath complexity.  
-Most of my progress comes from small, deliberate projects — each one a quiet step toward understanding how systems truly work.
+Most of my progress comes from small, deliberate projects — each one a quiet step toward understanding how systems truly work.  
 
-> ✳️ *I value clarity over complexity, calm learning over noise, and building things that make sense — not just things that impress.*
+Lately, I’ve been diving deeper into **deep learning**, building a strong foundation before stepping into large-scale systems and research-driven work.
 
----
+***
 
-### 🧠 Where I’m Focused Now  
-- **Deepening transformer fundamentals** — building and probing models from first principles  
-- **Bridging ML and production**: adding monitoring, drift detection, and reproducibility to existing projects  
-- **Exploring applied GenAI**: LangChain for structured workflows, not just chat prompts  
-- **Learning in public**, quietly — documenting decisions, failures, and insights as I go  
-
-*(Currently working through LangChain concepts in `LangChain_Journey`, with an eye toward RAG evaluation and tool use.)*
-
----
-
-### 🛠️ Tech Stack  
-*(All used in shipped projects — no “familiar with”)*
+### 🧩 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B" height="28" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/XGBoost-%23CC0000?logo=image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0NDMDAwMCIgZD0iTTEyLjUgMi43NWExLjc1IDEuNzUgMCAwIDEgMS43NSAxLjc1djE1YTEuNzUgMS43NSAwIDAgMS0zLjUtMUgxMi41VjIuNzV6Ii8+PC9zdmc+" height="28" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/MLflow-000000?logo=mlflow&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
+***
 
-### 🌟 Key Projects (Built & Deployed)
+### 🧠 Current Focus
 
-#### 🔤 **[GPT-from-Scratch (PyTorch)](https://github.com/ayushsyntax/GPT-from-Scratch-in-PyTorch)**  
-A minimal decoder-only Transformer, trained on Shakespeare’s complete works (~1.1M chars).  
-- Built every component: causal self-attention, multi-head attention, LayerNorm, GELU, weight tying  
-- Character-level tokenizer + top-k/temperature sampling  
-- Trained from scratch — *no pre-built modules, no Hugging Face*  
-▶️ [Walkthrough & Demo](https://www.youtube.com/watch?v=FSzQwOj5jyA)
+- Deepening understanding of **neural network architecture** and training dynamics  
+- Writing **clear, scalable, and maintainable** code for data-centric systems  
+- Learning to **communicate, explain, and deploy** models effectively  
+- Exploring **LangChain** for structured workflows (currently in `LangChain_Journey`)  
 
-#### 🌧️ **[SkyCast: Rainfall Prediction](https://github.com/ayushsyntax/SkyCast)**  
-End-to-end ML app predicting rainfall probability using XGBoost (AUC > 0.90).  
-- Engineered features for cyclical time, humidity-temp interactions  
-- Class imbalance handling, calibrated probabilities, risk-tiered advice  
-- Deployed as interactive Streamlit app  
-🌐 [Live Demo](https://ayushsyntax-skycast-app-cfhsti.streamlit.app)
+***
 
-#### 📉 **Telecom Churn Prediction**  
-Production-ready pipeline for customer retention.  
-- Achieved **77% recall** (CatBoost) with leakage-aware features  
-- SHAP for global/local interpretability + K-Means for segmentation  
-- FastAPI backend + Streamlit dashboard  
-▶️ [Implementation Walkthrough](https://www.youtube.com/watch?v=FSzQwOj5jyA)
+### 🌐 Elsewhere
 
-#### 🚗 **U.S. Accident EDA (7.7M Records)**  
-Spatiotemporal analysis of traffic accidents (2016–2023) across 49 states.  
-- Mapped hotspots using Folium, uncovered timing patterns (hour/day/month)  
-- Focused on *actionable insights*, not just visuals  
-🔗 [Code & Insights](https://lnkd.in/dqHxsPfU)
-
-#### 🏆 **NexHack 2025 Finalist (Top 20/115)**  
-Co-built *Forensic Trace* — an AI tool for multi-source digital evidence analysis (24-hour national hackathon).
-
----
-
-### 📚 Learning & Validation  
-- ✅ **Machine Learning I** — Columbia University (Aug 2025)  
-  Rigorous foundation in supervised/unsupervised learning, with mathematical depth  
-- ✅ **Top 9%** — Kaggle Playground Series (S5E3)  
-- ✅ **Summer Intern** — Pickl.AI (2025): Binary rainfall prediction (89+ ROC AUC)  
-
----
-
-### 🌐 Elsewhere  
 [LinkedIn](https://linkedin.com/in/ayush-kumar-0a7b85303) •  
-[X / Twitter](https://x.com/AyushSyntax) •  
-[Kaggle](https://www.kaggle.com/ayushsyntax) •  
-📧 `ayush.syntax[at]gmail.com`
+[X (Twitter)](https://x.com/AyushSyntax) •  
+[Kaggle](https://www.kaggle.com/ayushsyntax)
+
+***
+
+### ✳️
+
+I value clarity over complexity, calm learning over noise, and building things that make sense — not just things that impress.
