@@ -1,4 +1,7 @@
-# Hi, I'm Ayush 👋  
+***
+
+# Hi, I'm Ayush 👋
+
 **B.Tech in Artificial Intelligence & Data Science (2023–2027)**
 
 I work with data, code, and ideas to uncover patterns beneath complexity.  
@@ -33,21 +36,20 @@ Lately, I’ve been diving deeper into **deep learning**, building a strong foun
 
 ### 🧠 Current Focus
 
-- Deepening understanding of **neural network architecture** and training dynamics  
+- Deepening understanding of **neural network** architecture and model dynamics  
 - Writing **clear, scalable, and maintainable** code for data-centric systems  
 - Learning to **communicate, explain, and deploy** models effectively  
-- Exploring **LangChain** for structured workflows (currently in `LangChain_Journey`)  
 
 ***
 
 ### 🌐 Elsewhere
 
-[LinkedIn](https://linkedin.com/in/ayush-kumar-0a7b85303) •  
-[X (Twitter)](https://x.com/AyushSyntax) •  
-[Kaggle](https://www.kaggle.com/ayushsyntax)
+[LinkedIn](https://linkedin.com/in/ayush-kumar-0a7b85303) -  [X (Twitter)](https://x.com/AyushSyntax) -  [Kaggle](https://www.kaggle.com/ayushsyntax)
 
 ***
 
 ### ✳️
 
 I value clarity over complexity, calm learning over noise, and building things that make sense — not just things that impress.
+
+***
