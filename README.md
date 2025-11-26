@@ -1,55 +1,64 @@
-***
+# Hi, I’m Ayush 👋  
+### *Building systems that learn — and last.*
 
-# Hi, I'm Ayush 👋
+**B.Tech in AI & Data Science** @ Kurukshetra University (2023–2027)  
+Focused on **deep learning fundamentals**, **responsible deployment**, and the space between model performance and real-world impact.
 
-**B.Tech in Artificial Intelligence & Data Science (2023–2027)**
+> ✨ *Most progress comes from small, deliberate projects —  
+> each one a quiet step toward understanding how systems truly work.*
 
-I work with data, code, and ideas to uncover patterns beneath complexity.  
-Most of my progress comes from small, deliberate projects — each one a quiet step toward understanding how systems truly work.  
+---
 
-Lately, I’ve been diving deeper into **deep learning**, building a strong foundation before stepping into large-scale systems and research-driven work.
+### 🛠️ In Practice  
+I build **end-to-end ML systems** — from data to deployment — with an engineer’s eye for reliability and a scientist’s curiosity for *why*.
 
-***
+#### 🔹 Recent Work  
+- **[tinyGPT](https://github.com/ayushsyntax/GPT-from-Scratch-in-PyTorch)**  
+  A 6-layer decoder-only Transformer, built *from scratch* in PyTorch.  
+  → No Hugging Face. No shortcuts. Just attention, gradients, and Shakespeare.  
+  ▶️ [Walkthrough](https://www.youtube.com/watch?v=FSzQwOj5jyA)
 
-### 🧩 Tech Stack
+- **[SkyCast](https://ayushsyntax-skycast-app-cfhsti.streamlit.app)**  
+  Rainfall prediction web app (XGBoost, AUC > 0.90), deployed with Streamlit.  
+  → Handles class imbalance, calibrated probabilities, and real-time user input.  
+  🌧️ [Live Demo](https://ayushsyntax-skycast-app-cfhsti.streamlit.app)
 
+- **Telecom Churn Pipeline**  
+  End-to-end system: leakage-aware features → CatBoost (77% recall) → SHAP explanations → FastAPI + Streamlit.  
+  → Prioritized *actionable risk scores* over leaderboard metrics.
+
+#### 🔹 Stack I Ship With  
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B" height="24" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="24" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="24" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-%23CC0000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0NDMDAwMCIgZD0iTTEyLjUgMi43NWExLjc1IDEuNzUgMCAwIDEgMS43NSAxLjc1djE1YTEuNzUgMS43NSAwIDAgMS0zLjUtMUgxMi41VjIuNzV6Ii8+PC9zdmc+" height="24" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="24" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" height="24" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="24" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="24" alt="Docker" />
+  <img src="https://img.shields.io/badge/MLflow-000000?logo=mlflow&logoColor=white" height="24" alt="MLflow" />
 </p>
 
-***
+*(Adding MLOps tools incrementally — because robustness is built in layers.)*
 
-### 🧠 Current Focus
+---
 
-- Deepening understanding of **neural network** architecture and model dynamics  
-- Writing **clear, scalable, and maintainable** code for data-centric systems  
-- Learning to **communicate, explain, and deploy** models effectively  
+### 🧠 How I Work  
+- **Clarity over cleverness** — code should explain itself  
+- **Explainability by design** — SHAP, calibration, segmentation  
+- **Deploy early, monitor always** — model decay is the silent killer  
+- **Learn in public, build in quiet**  
 
-***
+---
 
-### 🌐 Elsewhere
+### 🌐 Let’s Connect  
+Open to **ML Engineering internships (Summer 2026)** and conversations about:  
+- Transformers, training dynamics, and small-model efficiency  
+- Building ML systems that *stay* reliable  
+- The craft of turning notebooks into services  
 
-[LinkedIn](https://linkedin.com/in/ayush-kumar-0a7b85303) -  [X (Twitter)](https://x.com/AyushSyntax) -  [Kaggle](https://www.kaggle.com/ayushsyntax)
-
-***
-
-### ✳️
-
-I value clarity over complexity, calm learning over noise, and building things that make sense — not just things that impress.
-
-***
+[LinkedIn](https://linkedin.com/in/ayush-kumar-0a7b85303) •  
+[X](https://x.com/AyushSyntax) •  
+[Kaggle](https://www.kaggle.com/ayushsyntax) •  
+✉️ `ayushsyntax@gmail.com`
