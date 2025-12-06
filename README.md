@@ -1,27 +1,26 @@
-<h1 align="center">✨ Hey, I’m <span style="color:#f18f01;">Ayush</span></h1>
+<h1 align="center">👋 Hi, I’m <span style="color:#ff914d;">Ayush</span></h1>
 
 <p align="center">
   <em>B.Tech in Artificial Intelligence & Data Science (2023–2027)</em><br>
-  exploring how data, logic, and creativity blend to build intelligent systems.
+  exploring how data, intuition, and curiosity come together to build something that learns.
 </p>
 
 ---
 
 ### 🌱 About Me
 
-I work at the intersection of **data**, **code**, and **learning systems** —  
-quietly building tools that understand, adapt, and sometimes, surprise.  
+I love working where **logic meets imagination** —  
+turning small ideas into quiet systems that *make sense of the world*.  
 
-I like ideas that evolve slowly, grow naturally, and leave something useful behind.
+Most of what I build starts simple — and grows at its own pace.
 
 ---
 
 ### 🔮 Current Focus
 
-💭 deep learning fundamentals — seeing *why* models work, not just *how*  
-🌐 connecting small systems into something that *thinks in context*  
-🧠 exploring the edges of reasoning, self-correction, and autonomy  
-🪶 keeping it all grounded, explainable, and human
+✨ understanding how models think and where they fail  
+🔁 making learning systems more reflective, not reactive  
+🌤️ staying curious, patient, and honest through the process
 
 ---
 
@@ -57,18 +56,16 @@ I like ideas that evolve slowly, grow naturally, and leave something useful behi
   <a href="https://www.linkedin.com/in/ayush-kumar-0a7b85303">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.kaggle.com/ayushsyntax">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🪶 Philosophy
+### ☀️ Philosophy
 
-> *Build slowly. Learn deeply.  
-> Seek systems that explain themselves.*  
->  
-> Clarity over noise. Meaning over motion.  
-> And always — progress with purpose.
+> *Keep it simple. Keep it human.*  
+> *Everything else follows.*
 
-<p align="center">
-  <sub><i>crafted with curiosity • written in lowercase • built with intention</i></sub>
-</p>
+
