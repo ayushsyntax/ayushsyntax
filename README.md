@@ -1,61 +1,74 @@
-# 👋 Hey, I’m **Ayush**
+<h1 align="center">✨ Hey, I’m <span style="color:#f18f01;">Ayush</span></h1>
 
-### *B.Tech in Artificial Intelligence & Data Science (2023–2027)*  
-
-I spend my time between **data**, **code**, and the quiet pursuit of understanding how things think.  
-My work isn’t about speed — it’s about **clarity**, **structure**, and **intent**.  
-Most of it happens off-screen, in slow iterations and quiet notebooks.
+<p align="center">
+  <em>B.Tech in Artificial Intelligence & Data Science (2023–2027)</em><br>
+  exploring how data, logic, and creativity blend to build intelligent systems.
+</p>
 
 ---
 
-## 🌫️ What I’m Exploring
+### 🌱 About Me
+
+I work at the intersection of **data**, **code**, and **learning systems** —  
+quietly building tools that understand, adapt, and sometimes, surprise.  
+
+I like ideas that evolve slowly, grow naturally, and leave something useful behind.
+
+---
+
+### 🔮 Current Focus
+
+💭 deep learning fundamentals — seeing *why* models work, not just *how*  
+🌐 connecting small systems into something that *thinks in context*  
+🧠 exploring the edges of reasoning, self-correction, and autonomy  
+🪶 keeping it all grounded, explainable, and human
+
+---
+
+### 🧩 Tech Stack
 
 <div align="center">
-
-|   |   |
-|---|---|
-| 🧠 | systems that *learn in silence* |
-| ⚙️ | code that *explains itself* |
-| 🔁 | loops that *begin where they end* |
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-ff6700?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
 
-## 🧩 Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=gray" />
-  <img src="https://img.shields.io/badge/PyTorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=gray" />
-  <img src="https://img.shields.io/badge/TensorFlow-1a1a1a?style=flat-square&logo=tensorflow&logoColor=gray" />
-  <img src="https://img.shields.io/badge/LangChain-1a1a1a?style=flat-square&logo=langchain&logoColor=gray" />
-  <img src="https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=gray" />
-  <img src="https://img.shields.io/badge/Streamlit-1a1a1a?style=flat-square&logo=streamlit&logoColor=gray" />
-  <img src="https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=gray" />
-  <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=gray" />
-</div>
-
----
-
-## 🕸️ Elsewhere
+### 🌐 Elsewhere
 
 <p align="center">
   <a href="https://x.com/AyushSyntax">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=gray" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ayush-kumar-0a7b85303">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=gray" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🖤 Philosophy
+### 🪶 Philosophy
 
-> *Precision is quiet.*  
-> *Progress is not a race.*  
-> *And the most elegant systems often begin as questions, not answers.*
+> *Build slowly. Learn deeply.  
+> Seek systems that explain themselves.*  
+>  
+> Clarity over noise. Meaning over motion.  
+> And always — progress with purpose.
 
 <p align="center">
-  <sub><i>Written in lowercase — built with intention.</i></sub>
+  <sub><i>crafted with curiosity • written in lowercase • built with intention</i></sub>
 </p>
