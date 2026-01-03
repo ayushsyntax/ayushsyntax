@@ -64,7 +64,6 @@ I prefer building systems **from first principles** before scaling them, so that
 <!-- NLP & GenAI -->
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-6E57E0?style=for-the-badge" />
 
 <!-- RAG & Vector Search -->
 <img src="https://img.shields.io/badge/LangChain-ff6700?style=for-the-badge" />
