@@ -1,66 +1,112 @@
 
-Everything I build fits somewhere in this map.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:3A6EA5&height=180&section=header&text=Ayush%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
+
+### 🧠 AI & Data Science Undergraduate  
+Designing reliable ML and GenAI systems.
+
+<br>
+
+<img src="https://img.shields.io/badge/System%20Thinking-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deployment%20Focused-3A6EA5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20%26%20Agents-6E44FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Training–Serving%20Parity-FF9900?style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 03. Flagship Systems
+# 01 — About Me
+
+I build complete machine learning systems.
+
+From raw data  
+to feature pipelines  
+to training and evaluation  
+to APIs, deployment, and observability.
+
+I’m especially interested in:
+
+- Where models fail outside benchmarks  
+- How retrieval systems evolve over time  
+- Agentic reasoning with controlled tool usage  
+- Preventing silent training–serving mismatches  
+- Designing systems that remain understandable  
+
+I prefer deliberate design over accidental complexity.
 
 ---
 
-## Agentic Research Assistant
+# 02 — Systems View
 
-Structured LLM orchestration with LangGraph.
+Everything I build fits somewhere in this flow:
 
-Design principles:
-- Retrieval as a tool, not an automatic crutch
-- Persistent memory via SQLite checkpointers
+```
+
+Data → Features → Model → Evaluation → API/Agent → Deployment → Observability → Iteration
+
+```
+
+If a system cannot be traced, versioned, and reproduced,  
+it is not finished.
+
+---
+
+# 03 — Flagship Systems
+
+---
+
+## 🔵 Agentic Research Assistant
+
+Structured LLM orchestration built with LangGraph.
+
+Design:
+- Retrieval as a conditional tool
+- Persistent SQLite memory
 - Thread-scoped vector stores
 - Guarded tool invocation
-- Full trace inspection with LangSmith
-
-Architecture:
-User → Reasoning Node → Tool → Context → Memory → Response
+- LangSmith trace inspection
+- FastAPI + Streamlit interface
 
 Why it matters:
-Most agent demos hide state. This one exposes it.
+State and reasoning are inspectable, not hidden.
 
 Repository  
 https://github.com/ayushsyntax/Agentic-Research-Assistant
 
 ---
 
-## End-to-End Regression ML System
+## 🟠 Regression ML — End-to-End System
 
-A full ML lifecycle project built for production realism.
+Production-oriented ML lifecycle.
 
 Engineering decisions:
-- Strict chronological splits
-- No leakage validation
+- Strict chronological validation
+- Leakage-safe feature engineering
 - Unified training/inference pipeline
-- Hyperparameter tuning with Optuna
+- Optuna tuning
 - MLflow artifact versioning
 - Dockerized services
 - AWS ECS deployment
-- CI/CD via GitHub Actions
+- CI/CD automation
 
 Why it matters:
-Training code and inference code are identical pipelines.
+Training and serving share the same pipeline.
 
 Repository  
 https://github.com/ayushsyntax/Regression_ML-End-to-End
 
 ---
 
-## GPT from Scratch (PyTorch)
+## 🟣 GPT from Scratch (PyTorch)
 
-Decoder-only transformer trained on ~1.1M characters of Shakespeare.
+Decoder-only transformer trained on Shakespeare (~1.1M characters).
 
-Built manually:
+Implemented manually:
 - Tokenization
 - Positional embeddings
 - Multi-head attention
 - Pre-LayerNorm
-- Weight tying
 - Sampling strategies
 
 Evaluation:
@@ -75,67 +121,105 @@ https://github.com/ayushsyntax/GPT-from-Scratch-in-PyTorch
 
 ---
 
-## Reasona — Self-Improving RAG
+## 🟢 Reasona — Self-Improving RAG
 
-HyDE + Critic + Self-edit + Vector update.
+HyDE → Retrieval → Critic → Self-edit → Vector update
 
-Exploration:
-Can retrieval systems improve incrementally without retraining the base model?
+Focus:
+Incremental improvement without retraining the base model.
 
 Repository  
 https://github.com/ayushsyntax/Reasona
 
 ---
 
-# 04. Technical Surface Area
+# 04 — Tech Stack (Visual Overview)
 
-Languages  
-Python · C++ · SQL  
+### Core Languages
 
-ML  
-Scikit-Learn · XGBoost · PyTorch · TensorFlow  
-
-LLM Systems  
-LangGraph · LangChain · RAG · Embeddings · Tool Calling  
-
-Infrastructure  
-FastAPI · Docker · MLflow · GitHub Actions · AWS  
-
-Data  
-Pandas · NumPy · Matplotlib · Streamlit  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge"/>
 
 ---
 
-# 05. Lessons from Building Systems
+### Machine Learning
 
-• Data leakage is subtle and unforgiving  
-• Training accuracy does not equal production reliability  
-• Agent systems require guardrails, not just prompts  
-• Observability reduces hallucinated confidence  
-• Clean pipelines save more time than clever hacks  
-
-Complexity grows naturally.  
-Clarity must be engineered.
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 ---
 
-# 06. Current Direction
+### LLM & Retrieval Systems
 
-- Transformer internals
-- Memory-aware agents
-- Retrieval evaluation metrics
-- Production trade-offs in GenAI
-- Failure-mode documentation
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6E44FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-3A6EA5?style=for-the-badge"/>
 
 ---
+
+### Infrastructure & Deployment
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+---
+
+# 05 — Lessons from Building
+
+• Data leakage hides quietly until deployment  
+• Accuracy without future-safe validation is misleading  
+• Agent systems require guardrails  
+• Observability reduces hallucinated authority  
+• Clean pipelines scale better than clever shortcuts  
+
+Systems reward discipline.
+
+---
+
+# 06 — Current Direction
+
+- Transformer attention behavior  
+- Memory-aware agent systems  
+- Retrieval evaluation metrics  
+- Failure-mode documentation  
+- Production trade-offs in GenAI systems  
+
+---
+
+# 07 — Contribution Signal
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&theme=transparent"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsyntax&theme=transparent"/>
+
+---
+
+# 08 — Elsewhere
 
 <div align="center">
-
-### Build slowly. Understand deeply.
 
 [LinkedIn](https://www.linkedin.com/in/ayush-kumar-0a7b85303)  
 [X](https://x.com/AyushSyntax)
 
 </div>
 
+---
+
+<div align="center">
+
+Build slowly.  
+Understand deeply.  
+Let clarity compound.
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A6EA5,100:1F2937&height=120&section=footer"/>
+```
+
