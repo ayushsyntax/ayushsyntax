@@ -1,198 +1,95 @@
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A6EA5,100:6E44FF&height=160&section=header&text=Ayush%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-### 🧠 Artificial Intelligence & Data Science (2023–2027)
-
-Building reliable machine learning & generative AI systems  
-that behave well outside the notebook.
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3A6EA5?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-
-</div>
+Everything I build fits somewhere in this map.
 
 ---
 
-## 🌿 A Slice of Life
-
-Some evenings are spent debugging a data leak that only appears after deployment.  
-Some nights are spent tracing an LLM tool-call that went one step too far.  
-Some mornings are just cleaning pipelines so future me doesn’t suffer.
-
-I like building full systems — not just models.
-
-Raw Data  
-→ Feature Engineering  
-→ Training  
-→ Validation  
-→ Deployment  
-→ Monitoring  
-→ Reflection  
-
-What interests me most:
-- Where systems fail
-- How retrieval improves over time
-- How agents reason with tools
-- How to reduce silent failure in production
-
-I prefer clarity over cleverness.
+# 03. Flagship Systems
 
 ---
 
-# 🗺 System Map
+## Agentic Research Assistant
 
-```
+Structured LLM orchestration with LangGraph.
 
-```
-                 ┌──────────────────────┐
-                 │      Raw Data        │
-                 └────────────┬─────────┘
-                              │
-                              ▼
-                 ┌──────────────────────┐
-                 │ Feature Engineering  │
-                 └────────────┬─────────┘
-                              │
-                              ▼
-                 ┌──────────────────────┐
-                 │     Model Training   │
-                 └────────────┬─────────┘
-                              │
-                              ▼
-                 ┌──────────────────────┐
-                 │   Evaluation & CV    │
-                 └────────────┬─────────┘
-                              │
-                              ▼
-                 ┌──────────────────────┐
-                 │  API / Agent Layer   │
-                 └────────────┬─────────┘
-                              │
-                              ▼
-                 ┌──────────────────────┐
-                 │ Deployment (Docker)  │
-                 └────────────┬─────────┘
-                              │
-                              ▼
-                 ┌──────────────────────┐
-                 │ Observability Layer  │
-                 │ (Logs, Traces, MLflow│
-                 └──────────────────────┘
-```
-
-```
-
-Everything I build fits somewhere inside this map.
-
----
-
-# 🧩 Selected Systems
-
----
-
-## 🔵 Agentic Research Assistant
-
-A structured LLM orchestration system using LangGraph.
-
-Workflow:
-
-User  
-→ LLM reasoning node  
-→ Tool call (web/news/PDF)  
-→ Context aggregation  
-→ Memory update  
-→ Final response  
-
-Key characteristics:
-- Conditional RAG
-- Persistent SQLite memory
+Design principles:
+- Retrieval as a tool, not an automatic crutch
+- Persistent memory via SQLite checkpointers
 - Thread-scoped vector stores
-- Tool-calling with guardrails
-- LangSmith tracing
-- FastAPI + Streamlit interface
+- Guarded tool invocation
+- Full trace inspection with LangSmith
 
-Focus:
-Making reasoning loops inspectable and controllable.
+Architecture:
+User → Reasoning Node → Tool → Context → Memory → Response
+
+Why it matters:
+Most agent demos hide state. This one exposes it.
 
 Repository  
 https://github.com/ayushsyntax/Agentic-Research-Assistant
 
 ---
 
-## 🟠 Regression ML — End-to-End System
+## End-to-End Regression ML System
 
-A production-grade ML lifecycle project.
+A full ML lifecycle project built for production realism.
 
-Design:
+Engineering decisions:
 - Strict chronological splits
 - No leakage validation
-- Unified feature pipeline (train = serve)
-- Optuna tuning
-- MLflow tracking
-
-Deployment:
+- Unified training/inference pipeline
+- Hyperparameter tuning with Optuna
+- MLflow artifact versioning
 - Dockerized services
-- FastAPI inference
-- Streamlit dashboard
-- AWS ECS Fargate
-- CI/CD with GitHub Actions
+- AWS ECS deployment
+- CI/CD via GitHub Actions
 
-Focus:
-Reducing training–serving mismatch.
+Why it matters:
+Training code and inference code are identical pipelines.
 
 Repository  
 https://github.com/ayushsyntax/Regression_ML-End-to-End
 
 ---
 
-## 🟣 GPT from Scratch (PyTorch)
+## GPT from Scratch (PyTorch)
 
-Decoder-only transformer trained on Shakespeare (~1.1M characters).
+Decoder-only transformer trained on ~1.1M characters of Shakespeare.
 
-Built from fundamentals:
-- Character tokenizer
-- Learned positional embeddings
-- Multi-head causal self-attention
-- Pre-LayerNorm architecture
-- Temperature & top-k sampling
+Built manually:
+- Tokenization
+- Positional embeddings
+- Multi-head attention
+- Pre-LayerNorm
+- Weight tying
+- Sampling strategies
 
 Evaluation:
 Perplexity: 3.02  
 Accuracy: 64.9%
 
-Focus:
-Understanding transformers by implementing them.
+Why it matters:
+Understanding transformer mechanics beyond API usage.
 
 Repository  
 https://github.com/ayushsyntax/GPT-from-Scratch-in-PyTorch
 
 ---
 
-## 🟢 Reasona — Self-Improving RAG
+## Reasona — Self-Improving RAG
 
-Experimental adaptive retrieval system.
+HyDE + Critic + Self-edit + Vector update.
 
-Pipeline:
-HyDE → Retrieval → Critic → Self-edit → Vector update
-
-Focus:
-Incremental improvement without full retraining.
+Exploration:
+Can retrieval systems improve incrementally without retraining the base model?
 
 Repository  
 https://github.com/ayushsyntax/Reasona
 
 ---
 
-# 🛠 Technical Stack
+# 04. Technical Surface Area
 
-Core  
+Languages  
 Python · C++ · SQL  
 
 ML  
@@ -201,54 +98,44 @@ Scikit-Learn · XGBoost · PyTorch · TensorFlow
 LLM Systems  
 LangGraph · LangChain · RAG · Embeddings · Tool Calling  
 
-Deployment  
+Infrastructure  
 FastAPI · Docker · MLflow · GitHub Actions · AWS  
 
 Data  
-Pandas · NumPy · Matplotlib · Seaborn · Streamlit  
+Pandas · NumPy · Matplotlib · Streamlit  
 
 ---
 
-# 📘 Lessons Learned the Hard Way
+# 05. Lessons from Building Systems
 
-• Data leakage hides quietly until deployment  
-• A unified feature pipeline prevents silent inference bugs  
-• Tool-calling without guardrails creates hallucinated authority  
-• Observability is not optional in agent systems  
-• Clean structure saves more time than clever shortcuts  
-• Training accuracy means nothing without future-safe validation  
+• Data leakage is subtle and unforgiving  
+• Training accuracy does not equal production reliability  
+• Agent systems require guardrails, not just prompts  
+• Observability reduces hallucinated confidence  
+• Clean pipelines save more time than clever hacks  
 
-Systems teach humility.
+Complexity grows naturally.  
+Clarity must be engineered.
 
 ---
 
-# 🔭 Currently Exploring
+# 06. Current Direction
 
-- Transformer attention behavior
+- Transformer internals
 - Memory-aware agents
 - Retrieval evaluation metrics
-- Failure-mode analysis
-- Production trade-offs in GenAI systems
-
----
-
-# ☀️ Philosophy
-
-Build slowly.  
-Understand deeply.  
-Let clarity compound.  
+- Production trade-offs in GenAI
+- Failure-mode documentation
 
 ---
 
 <div align="center">
 
-### 🌐 Connect
+### Build slowly. Understand deeply.
 
 [LinkedIn](https://www.linkedin.com/in/ayush-kumar-0a7b85303)  
 [X](https://x.com/AyushSyntax)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E44FF,100:3A6EA5&height=120&section=footer"/>
-```
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A6EA5,100:1F2937&height=120&section=footer"/>
