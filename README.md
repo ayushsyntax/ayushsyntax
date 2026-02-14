@@ -1,162 +1,185 @@
-
-```markdown
 <div align="center">
 
-# 👋 Ayush Kumar
+# Ayush Kumar
 
-**Building AI systems that work in production**
-
-[LinkedIn](https://linkedin.com/in/ayushsyntax) • [Kaggle](https://kaggle.com/ayushsyntax) • [Email](mailto:your.email@example.com)
+**Artificial Intelligence & Data Science (B.Tech 2023–2027)**  
+Designing reliable machine learning and generative AI systems.
 
 </div>
 
 ---
 
-## 🧑‍💻 About
+## Philosophy
 
-I'm a machine learning engineer focused on building reliable AI systems. Currently pursuing B.Tech in AI & Data Science at Kurukshetra University.
+> Build slowly. Understand deeply.  
+> Systems over shortcuts. Clarity over complexity.
 
-I learn by building from scratch — whether it's implementing GPT architectures, designing agentic workflows, or deploying production ML pipelines. My work spans deep learning, generative AI, and MLOps.
+I am interested in how models behave in real conditions —  
+where they fail, how they generalize, and how they can improve.
 
-> *I prefer to build and experiment when learning, rather than treating models as black boxes.*
+Most of my work focuses on:
+- End-to-end ML systems  
+- Transformer internals  
+- Retrieval & agentic architectures  
+- Deployment discipline  
+- Reproducible pipelines  
+
+I prefer building from first principles before scaling abstraction.
 
 ---
 
-## 🚀 Featured Work
+# Selected Systems
 
-<table>
-<tr>
-<td width="50%">
+---
 
-### 🤖 [Agentic Research Assistant](https://github.com/ayushsyntax/Agentic-Research-Assistant)
+## 01 — Agentic Research Assistant
 
-Production agentic AI with LangGraph
+**Production-style LLM orchestration system built with LangGraph**
 
-**Built with:** LangGraph • ChromaDB • LangSmith
+Structured reasoning loop:
 
-- Tool-calling (web search, news, PDFs)
-- Persistent memory across sessions
-- Full observability & debugging
+User → LLM → Tool → Context → LLM → Memory → Response
 
-</td>
-<td width="50%">
+Key characteristics:
+- Controlled tool-calling (web, news, PDF RAG)
+- Persistent memory (SQLite checkpointers)
+- Thread-scoped vector stores
+- RAG as a tool (retrieval is conditional, not automatic)
+- Full observability via LangSmith tracing
+- FastAPI backend + Streamlit interface
 
-### 🏠 [End-to-End ML System](https://github.com/ayushsyntax/Regression_ML-End-to-End)
+Focus:
+Structured reasoning, controlled tool execution, inspectable state.
 
-Complete MLOps pipeline for housing prediction
+Repository  
+https://github.com/ayushsyntax/Agentic-Research-Assistant
 
-**Built with:** XGBoost • MLflow • AWS ECS
+---
 
-- Time-series validation
-- Docker deployment
-- CI/CD with GitHub Actions
+## 02 — Regression ML: End-to-End Production System
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Complete ML lifecycle with deployment discipline**
 
-### 🧬 [GPT from Scratch](https://github.com/ayushsyntax/GPT-from-Scratch-in-PyTorch)
+Design:
+- Chronological split (Train < 2020 | Eval 2020–21 | Holdout 2022–23)
+- Time-aware validation (no leakage)
+- Unified feature pipeline (training–serving parity)
+- High-cardinality encoding strategies
+- Optuna hyperparameter search
+- MLflow experiment tracking
 
-Transformer built from first principles
+Deployment:
+- Dockerized services
+- FastAPI inference layer
+- Streamlit analytics dashboard
+- AWS ECS Fargate deployment
+- CI/CD via GitHub Actions
+- Versioned artifacts in S3
 
-**Built with:** PyTorch • NumPy
+Focus:
+Reliability, reproducibility, and real deployment constraints.
 
-- 6-layer decoder architecture
+Repository  
+https://github.com/ayushsyntax/Regression_ML-End-to-End
+
+---
+
+## 03 — GPT from Scratch (PyTorch)
+
+**Decoder-only transformer built and trained from first principles**
+
+Implemented:
 - Character-level tokenizer
-- [Live Demo →](https://huggingface.co/spaces/ayushsyntax/shakespeare-gpt)
+- Learned positional embeddings
+- Multi-head causal self-attention
+- Pre-LayerNorm architecture
+- Weight tying
+- Temperature & top-k sampling
+- Full training & evaluation pipeline
 
-</td>
-<td width="50%">
+Evaluation:
+Perplexity: 3.02  
+Accuracy: 64.9%
 
-### 🔄 [Reasona](https://github.com/ayushsyntax/Reasona)
+Focus:
+Understanding transformer internals by building them.
 
-Self-correcting RAG system
-
-**Built with:** LangChain • ChromaDB
-
-- HyDE + SEAL architecture
-- Self-improving retrieval
-- Critic-based feedback loop
-
-</td>
-</tr>
-</table>
+Repository  
+https://github.com/ayushsyntax/GPT-from-Scratch-in-PyTorch
 
 ---
 
-## 🛠️ Stack
+## 04 — Reasona: Self-Improving RAG
 
-```python
-stack = {
-    "languages": ["Python", "SQL"],
-    "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-learn", "XGBoost"],
-    "genai": ["LangChain", "LangGraph", "HuggingFace", "OpenAI"],
-    "mlops": ["Docker", "AWS (ECS, S3)", "MLflow", "LangSmith"],
-    "tools": ["FastAPI", "Streamlit", "Pandas", "NumPy", "Git"]
-}
-```
+**Experimental adaptive retrieval system**
 
----
+Pipeline:
 
-## 📊 GitHub Activity
+Query  
+→ Hypothetical answer (HyDE)  
+→ Retrieval  
+→ Critic  
+→ Self-edit  
+→ Vector store update  
 
-<div align="center">
+Focus:
+Can retrieval systems incrementally improve without retraining?
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsyntax&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" width="48%" />
-
-</div>
+Repository  
+https://github.com/ayushsyntax/Reasona
 
 ---
 
-## 🏆 Highlights
+# Technical Stack
 
-- 🥇 **Top 9%** — Kaggle Playground Series
-- 🏅 **Top 20** — NexHack 2025 (115 teams nationwide)
-- 📜 **ML Certified** — Columbia University
-- 💼 **ML Intern** — Pickl.AI (89+ ROC AUC on rainfall prediction)
+### Core
+Python · C++ · SQL  
 
----
+### Machine Learning
+Scikit-Learn · XGBoost · PyTorch · TensorFlow  
 
-## 💭 Current Focus
+### LLM & Retrieval Systems
+LangGraph · LangChain · RAG · Embeddings · Tool-Calling  
 
-```yaml
-building:
-  - Multi-agent research systems
-  - Production RAG architectures
-  - Transformer implementations
+### Deployment & MLOps
+FastAPI · Docker · MLflow · GitHub Actions · AWS (S3, ECS, ECR)  
 
-learning:
-  - Advanced LLM orchestration
-  - Distributed training
-  - AI safety & alignment
-```
+### Data
+Pandas · NumPy · Matplotlib · Seaborn · Streamlit  
 
 ---
 
-## 📫 Connect
+# Current Direction
 
-<div align="center">
+- Transformer internals and attention behavior  
+- Memory-aware agent systems  
+- Evaluation of retrieval pipelines  
+- Failure analysis in ML systems  
+- Production trade-offs in GenAI systems  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushsyntax)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ayushsyntax)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+---
 
-**Open to collaborate on production ML and GenAI projects**
+# Engineering Approach
 
-</div>
+I try to keep systems:
+
+- Understandable  
+- Testable  
+- Deployment-aware  
+- Designed with explicit assumptions  
+
+I learn best by building complete systems rather than isolated components.
 
 ---
 
 <div align="center">
 
-*Building slowly. Understanding deeply.*
+### Links
 
-![](https://komarev.com/ghpvc/?username=ayushsyntax&color=blueviolet&style=flat-square)
+LinkedIn  
+https://www.linkedin.com/in/ayush-kumar-0a7b85303  
+
+X  
+https://x.com/AyushSyntax  
 
 </div>
-```
-
-***
-
