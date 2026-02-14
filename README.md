@@ -1,134 +1,102 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Ayush%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn&color=0:FF0080,50:7928CA,100:00C6FF"
-  alt="header"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:3A6EA5&height=150&section=header&text=Ayush%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&color=00C6FF&center=true&vCenter=true&width=760&lines=AI+%26+Data+Science+%E2%80%A2+ML+Systems+%E2%80%A2+GenAI+Engineering;Building+reliable+ML+and+agentic+AI+systems;Focused+on+clarity%2C+deployment%2C+and+real-world+behavior"
-    alt="typing"
-  />
-</a>
-
-<p>
-  <a href="https://www.linkedin.com/in/ayush-kumar-0a7b85303">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/AyushSyntax">
-    <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://github.com/ayushsyntax">
-    <img src="https://img.shields.io/badge/GitHub-ayushsyntax-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-Production%20ML-00C6FF?style=flat-square" alt="focus"/>
-  <img src="https://img.shields.io/badge/Focus-RAG%20%26%20Retrieval-7928CA?style=flat-square" alt="focus"/>
-  <img src="https://img.shields.io/badge/Focus-Agentic%20Workflows-FF0080?style=flat-square" alt="focus"/>
-</p>
+### Data Scientist & Machine Learning Engineer  
+GenAI • NLP • Applied AI • Reliable Systems
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I design and ship end-to-end ML systems.
+Hi, I’m Ayush — a B.Tech student in Artificial Intelligence & Data Science at Kurukshetra University.
 
-Data → Features → Training → Evaluation → API/Agent → Deployment → Observability.
+I enjoy building machine learning systems from start to finish:  
+understanding the data → engineering features → training models → evaluating carefully → deploying clean APIs → monitoring behavior in practice.
 
-What I care about:
-- Training–serving parity
-- Retrieval and RAG system design
-- Controlled LLM tool-calling
-- Failure-mode and behavior analysis
-- Reproducible, versioned pipelines
+I’ve worked across classical ML, deep learning, NLP, and generative AI. What interests me most is not just model accuracy, but how systems behave in the real world — where they fail, how they drift, and how they can be made more reliable over time.
 
-I like systems that are inspectable, debuggable, and deployment-aware.
+I prefer building and experimenting over treating models as black boxes.
 
 ---
 
-## Flagship Systems
+## What I Focus On
 
-<table>
-  <tr>
-    <td width="50%">
-      <strong>Agentic Research Assistant</strong><br/>
-      LangGraph-based reasoning system with tool-calling, persistent memory, and RAG-as-a-tool with LangSmith observability.<br/>
-      <sub>FastAPI • Streamlit • SQLite</sub>
-    </td>
-    <td width="50%">
-      <strong>Regression ML — End-to-End</strong><br/>
-      Time-aware validation, unified train/serve pipeline, Optuna tuning, MLflow tracking, Dockerized services, AWS ECS deployment, CI/CD automation.<br/>
-      <sub>XGBoost • MLflow • Docker • AWS</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>GPT from Scratch (PyTorch)</strong><br/>
-      Decoder-only transformer trained on Shakespeare (~1.1M chars). Implemented tokenization, attention, embeddings, and sampling.<br/>
-      <sub>Perplexity: 3.02 • Accuracy: 64.9%</sub>
-    </td>
-    <td width="50%">
-      <strong>Reasona — Self-Improving RAG</strong><br/>
-      HyDE → Critic → Self-edit → Vector update loop. Exploring incremental improvement in retrieval quality over time.<br/>
-      <sub>LangChain • ChromaDB</sub>
-    </td>
-  </tr>
-</table>
+• End-to-end ML pipelines  
+• Retrieval-Augmented Generation (RAG) systems  
+• Agentic AI with controlled tool-calling  
+• Training–serving parity  
+• Observability and system reliability  
+• Practical deployment on cloud infrastructure  
 
 ---
 
-## Tech Stack (clean)
+## Tech Stack
+
+### Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+---
+
+### Data & Analysis
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+---
+
+### Machine Learning & Deep Learning
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-3A6EA5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-6E44FF?style=for-the-badge"/>
+
+---
+
+### LLM & Retrieval Systems
+
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangSmith-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6E44FF?style=for-the-badge"/>
+
+---
+
+### MLOps & Infrastructure
+
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+---
+
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+[LinkedIn](https://www.linkedin.com/in/ayushsyntax)  
+[GitHub Projects](https://github.com/ayushsyntax)
 
-<br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge" alt="XGBoost"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/LangChain-2E7D32?style=for-the-badge" alt="LangChain"/>
-<img src="https://img.shields.io/badge/RAG-6E44FF?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/ChromaDB-6B7280?style=for-the-badge" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/LangSmith-1F2937?style=for-the-badge" alt="LangSmith"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=111111" alt="AWS"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" alt="MLflow"/>
+Building systems that are practical, explainable,  
+and genuinely useful.
 
 </div>
 
----
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ayush-kumar-0a7b85303">LinkedIn</a> ·
-<a href="https://x.com/AyushSyntax">X</a>
-
-<br/><br/>
-
-Build slowly. Understand deeply.
-
-</div>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=fadeIn&color=0:00C6FF,50:7928CA,100:FF0080"
-  alt="footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A6EA5,100:1F2937&height=90&section=footer"/>
