@@ -33,56 +33,47 @@ I prefer building and experimenting over treating models as black boxes.
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
-### Languages
+<p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
----
+<!-- Data -->
+<img src="https://img.shields.io/badge/NumPy-00C7B7?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-792EE5?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4E79A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-### Data & Analysis
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
----
-
-### Machine Learning & Deep Learning
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<!-- ML & DL -->
+<img src="https://img.shields.io/badge/Scikit--Learn-FF9E00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-FF4B4B?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-3A6EA5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-6E44FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-6E44FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-9333EA?style=for-the-badge"/>
 
----
-
-### LLM & Retrieval Systems
-
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-2E7D32?style=for-the-badge"/>
+<!-- LLM & RAG -->
+<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangSmith-1F2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-6E44FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge"/>
 
----
-
-### MLOps & Infrastructure
-
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<!-- MLOps & Infra -->
+<img src="https://img.shields.io/badge/MLflow-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DVC-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-10B981?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF2D20?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-38BDF8?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
 
 ---
 
