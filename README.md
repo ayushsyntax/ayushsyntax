@@ -1,11 +1,11 @@
-<div align="center">
 
-# Ayush Kumar  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A6EA5,100:6E44FF&height=160&section=header&text=Ayush%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 ### 🧠 Artificial Intelligence & Data Science (2023–2027)
 
-Building machine learning & generative AI systems  
-with a focus on reliability, clarity, and real-world behavior.
+Building reliable machine learning & generative AI systems  
+that behave well outside the notebook.
 
 <br>
 
@@ -14,28 +14,82 @@ with a focus on reliability, clarity, and real-world behavior.
 <img src="https://img.shields.io/badge/LangGraph-222222?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🌿 A Little About Me
+## 🌿 A Slice of Life
 
-I enjoy building complete systems.
+Some evenings are spent debugging a data leak that only appears after deployment.  
+Some nights are spent tracing an LLM tool-call that went one step too far.  
+Some mornings are just cleaning pipelines so future me doesn’t suffer.
 
-Not just models.  
-Not just notebooks.  
-But systems that move from raw data → training → evaluation → deployment.
+I like building full systems — not just models.
 
-I’m especially curious about:
+Raw Data  
+→ Feature Engineering  
+→ Training  
+→ Validation  
+→ Deployment  
+→ Monitoring  
+→ Reflection  
 
-- Where models fail  
-- How retrieval systems evolve  
-- How LLMs reason when tools are involved  
-- What breaks in production  
-- And how to make it break less
+What interests me most:
+- Where systems fail
+- How retrieval improves over time
+- How agents reason with tools
+- How to reduce silent failure in production
 
-I prefer understanding fundamentals deeply before adding abstraction.
+I prefer clarity over cleverness.
+
+---
+
+# 🗺 System Map
+
+```
+
+```
+                 ┌──────────────────────┐
+                 │      Raw Data        │
+                 └────────────┬─────────┘
+                              │
+                              ▼
+                 ┌──────────────────────┐
+                 │ Feature Engineering  │
+                 └────────────┬─────────┘
+                              │
+                              ▼
+                 ┌──────────────────────┐
+                 │     Model Training   │
+                 └────────────┬─────────┘
+                              │
+                              ▼
+                 ┌──────────────────────┐
+                 │   Evaluation & CV    │
+                 └────────────┬─────────┘
+                              │
+                              ▼
+                 ┌──────────────────────┐
+                 │  API / Agent Layer   │
+                 └────────────┬─────────┘
+                              │
+                              ▼
+                 ┌──────────────────────┐
+                 │ Deployment (Docker)  │
+                 └────────────┬─────────┘
+                              │
+                              ▼
+                 ┌──────────────────────┐
+                 │ Observability Layer  │
+                 │ (Logs, Traces, MLflow│
+                 └──────────────────────┘
+```
+
+```
+
+Everything I build fits somewhere inside this map.
 
 ---
 
@@ -43,62 +97,67 @@ I prefer understanding fundamentals deeply before adding abstraction.
 
 ---
 
-## 🔵 01 — Agentic Research Assistant
+## 🔵 Agentic Research Assistant
 
-A production-style agentic LLM system built with LangGraph.
+A structured LLM orchestration system using LangGraph.
 
-Structured loop:
+Workflow:
 
-User → LLM → Tool → Context → Memory → Response  
+User  
+→ LLM reasoning node  
+→ Tool call (web/news/PDF)  
+→ Context aggregation  
+→ Memory update  
+→ Final response  
 
-✨ Highlights:
-- Conditional RAG (retrieval only when needed)
-- Persistent conversational memory
+Key characteristics:
+- Conditional RAG
+- Persistent SQLite memory
 - Thread-scoped vector stores
-- Tool-calling (web, news, PDF search)
-- LangSmith observability tracing
-- FastAPI backend + Streamlit frontend
+- Tool-calling with guardrails
+- LangSmith tracing
+- FastAPI + Streamlit interface
 
-Focus:  
-Designing inspectable reasoning workflows rather than opaque prompts.
+Focus:
+Making reasoning loops inspectable and controllable.
 
 Repository  
 https://github.com/ayushsyntax/Agentic-Research-Assistant
 
 ---
 
-## 🟠 02 — End-to-End Regression ML System
+## 🟠 Regression ML — End-to-End System
 
-A full ML lifecycle implementation built for deployment realism.
+A production-grade ML lifecycle project.
 
 Design:
-- Strict chronological splits (no data leakage)
-- Time-aware feature engineering
-- Unified feature pipeline (training–serving parity)
-- Optuna hyperparameter tuning
+- Strict chronological splits
+- No leakage validation
+- Unified feature pipeline (train = serve)
+- Optuna tuning
 - MLflow tracking
 
 Deployment:
 - Dockerized services
-- FastAPI inference layer
+- FastAPI inference
 - Streamlit dashboard
 - AWS ECS Fargate
-- CI/CD via GitHub Actions
+- CI/CD with GitHub Actions
 
-Focus:  
-Reliability and reproducibility over leaderboard metrics.
+Focus:
+Reducing training–serving mismatch.
 
 Repository  
 https://github.com/ayushsyntax/Regression_ML-End-to-End
 
 ---
 
-## 🟣 03 — GPT from Scratch (PyTorch)
+## 🟣 GPT from Scratch (PyTorch)
 
-A compact decoder-only transformer trained on Shakespeare (~1.1M characters).
+Decoder-only transformer trained on Shakespeare (~1.1M characters).
 
-Implemented from first principles:
-- Character-level tokenizer
+Built from fundamentals:
+- Character tokenizer
 - Learned positional embeddings
 - Multi-head causal self-attention
 - Pre-LayerNorm architecture
@@ -108,22 +167,23 @@ Evaluation:
 Perplexity: 3.02  
 Accuracy: 64.9%
 
-Focus:  
-Understanding transformer mechanics by building them.
+Focus:
+Understanding transformers by implementing them.
 
 Repository  
 https://github.com/ayushsyntax/GPT-from-Scratch-in-PyTorch
 
 ---
 
-## 🟢 04 — Reasona (Self-Improving RAG)
+## 🟢 Reasona — Self-Improving RAG
 
-Experimental adaptive retrieval system combining:
+Experimental adaptive retrieval system.
 
-HyDE → Retrieval → Critic → Self-edit → Vector update  
+Pipeline:
+HyDE → Retrieval → Critic → Self-edit → Vector update
 
-Focus:  
-Exploring incremental improvement in retrieval systems.
+Focus:
+Incremental improvement without full retraining.
 
 Repository  
 https://github.com/ayushsyntax/Reasona
@@ -132,38 +192,51 @@ https://github.com/ayushsyntax/Reasona
 
 # 🛠 Technical Stack
 
-### Core
+Core  
 Python · C++ · SQL  
 
-### Machine Learning
+ML  
 Scikit-Learn · XGBoost · PyTorch · TensorFlow  
 
-### LLM Systems
+LLM Systems  
 LangGraph · LangChain · RAG · Embeddings · Tool Calling  
 
-### Deployment & MLOps
+Deployment  
 FastAPI · Docker · MLflow · GitHub Actions · AWS  
 
-### Data
+Data  
 Pandas · NumPy · Matplotlib · Seaborn · Streamlit  
 
 ---
 
-# 🔍 Currently Exploring
+# 📘 Lessons Learned the Hard Way
 
-- Transformer internals and attention behavior  
-- Memory-aware agent systems  
-- Retrieval evaluation methods  
-- Failure analysis in ML systems  
-- Practical trade-offs in GenAI deployment  
+• Data leakage hides quietly until deployment  
+• A unified feature pipeline prevents silent inference bugs  
+• Tool-calling without guardrails creates hallucinated authority  
+• Observability is not optional in agent systems  
+• Clean structure saves more time than clever shortcuts  
+• Training accuracy means nothing without future-safe validation  
+
+Systems teach humility.
 
 ---
 
-# ☀️ A Small Philosophy
+# 🔭 Currently Exploring
+
+- Transformer attention behavior
+- Memory-aware agents
+- Retrieval evaluation metrics
+- Failure-mode analysis
+- Production trade-offs in GenAI systems
+
+---
+
+# ☀️ Philosophy
 
 Build slowly.  
 Understand deeply.  
-Let clarity compound.
+Let clarity compound.  
 
 ---
 
@@ -175,3 +248,7 @@ Let clarity compound.
 [X](https://x.com/AyushSyntax)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E44FF,100:3A6EA5&height=120&section=footer"/>
+```
+
