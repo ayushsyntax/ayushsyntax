@@ -1,136 +1,136 @@
 <div align="center">
 
-# Ayush Kumar
+# Ayush Kumar  
 
-**Artificial Intelligence & Data Science (B.Tech 2023–2027)**  
-Designing reliable machine learning and generative AI systems.
+### 🧠 Artificial Intelligence & Data Science (2023–2027)
+
+Building machine learning & generative AI systems  
+with a focus on reliability, clarity, and real-world behavior.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3A6EA5?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
 
 ---
 
-## Philosophy
+## 🌿 A Little About Me
 
-> Build slowly. Understand deeply.  
-> Systems over shortcuts. Clarity over complexity.
+I enjoy building complete systems.
 
-I am interested in how models behave in real conditions —  
-where they fail, how they generalize, and how they can improve.
+Not just models.  
+Not just notebooks.  
+But systems that move from raw data → training → evaluation → deployment.
 
-Most of my work focuses on:
-- End-to-end ML systems  
-- Transformer internals  
-- Retrieval & agentic architectures  
-- Deployment discipline  
-- Reproducible pipelines  
+I’m especially curious about:
 
-I prefer building from first principles before scaling abstraction.
+- Where models fail  
+- How retrieval systems evolve  
+- How LLMs reason when tools are involved  
+- What breaks in production  
+- And how to make it break less
 
----
-
-# Selected Systems
+I prefer understanding fundamentals deeply before adding abstraction.
 
 ---
 
-## 01 — Agentic Research Assistant
+# 🧩 Selected Systems
 
-**Production-style LLM orchestration system built with LangGraph**
+---
 
-Structured reasoning loop:
+## 🔵 01 — Agentic Research Assistant
 
-User → LLM → Tool → Context → LLM → Memory → Response
+A production-style agentic LLM system built with LangGraph.
 
-Key characteristics:
-- Controlled tool-calling (web, news, PDF RAG)
-- Persistent memory (SQLite checkpointers)
+Structured loop:
+
+User → LLM → Tool → Context → Memory → Response  
+
+✨ Highlights:
+- Conditional RAG (retrieval only when needed)
+- Persistent conversational memory
 - Thread-scoped vector stores
-- RAG as a tool (retrieval is conditional, not automatic)
-- Full observability via LangSmith tracing
-- FastAPI backend + Streamlit interface
+- Tool-calling (web, news, PDF search)
+- LangSmith observability tracing
+- FastAPI backend + Streamlit frontend
 
-Focus:
-Structured reasoning, controlled tool execution, inspectable state.
+Focus:  
+Designing inspectable reasoning workflows rather than opaque prompts.
 
 Repository  
 https://github.com/ayushsyntax/Agentic-Research-Assistant
 
 ---
 
-## 02 — Regression ML: End-to-End Production System
+## 🟠 02 — End-to-End Regression ML System
 
-**Complete ML lifecycle with deployment discipline**
+A full ML lifecycle implementation built for deployment realism.
 
 Design:
-- Chronological split (Train < 2020 | Eval 2020–21 | Holdout 2022–23)
-- Time-aware validation (no leakage)
+- Strict chronological splits (no data leakage)
+- Time-aware feature engineering
 - Unified feature pipeline (training–serving parity)
-- High-cardinality encoding strategies
-- Optuna hyperparameter search
-- MLflow experiment tracking
+- Optuna hyperparameter tuning
+- MLflow tracking
 
 Deployment:
 - Dockerized services
 - FastAPI inference layer
-- Streamlit analytics dashboard
-- AWS ECS Fargate deployment
+- Streamlit dashboard
+- AWS ECS Fargate
 - CI/CD via GitHub Actions
-- Versioned artifacts in S3
 
-Focus:
-Reliability, reproducibility, and real deployment constraints.
+Focus:  
+Reliability and reproducibility over leaderboard metrics.
 
 Repository  
 https://github.com/ayushsyntax/Regression_ML-End-to-End
 
 ---
 
-## 03 — GPT from Scratch (PyTorch)
+## 🟣 03 — GPT from Scratch (PyTorch)
 
-**Decoder-only transformer built and trained from first principles**
+A compact decoder-only transformer trained on Shakespeare (~1.1M characters).
 
-Implemented:
+Implemented from first principles:
 - Character-level tokenizer
 - Learned positional embeddings
 - Multi-head causal self-attention
 - Pre-LayerNorm architecture
-- Weight tying
 - Temperature & top-k sampling
-- Full training & evaluation pipeline
 
 Evaluation:
 Perplexity: 3.02  
 Accuracy: 64.9%
 
-Focus:
-Understanding transformer internals by building them.
+Focus:  
+Understanding transformer mechanics by building them.
 
 Repository  
 https://github.com/ayushsyntax/GPT-from-Scratch-in-PyTorch
 
 ---
 
-## 04 — Reasona: Self-Improving RAG
+## 🟢 04 — Reasona (Self-Improving RAG)
 
-**Experimental adaptive retrieval system**
+Experimental adaptive retrieval system combining:
 
-Pipeline:
+HyDE → Retrieval → Critic → Self-edit → Vector update  
 
-Query  
-→ Hypothetical answer (HyDE)  
-→ Retrieval  
-→ Critic  
-→ Self-edit  
-→ Vector store update  
-
-Focus:
-Can retrieval systems incrementally improve without retraining?
+Focus:  
+Exploring incremental improvement in retrieval systems.
 
 Repository  
 https://github.com/ayushsyntax/Reasona
 
 ---
 
-# Technical Stack
+# 🛠 Technical Stack
 
 ### Core
 Python · C++ · SQL  
@@ -138,48 +138,40 @@ Python · C++ · SQL
 ### Machine Learning
 Scikit-Learn · XGBoost · PyTorch · TensorFlow  
 
-### LLM & Retrieval Systems
-LangGraph · LangChain · RAG · Embeddings · Tool-Calling  
+### LLM Systems
+LangGraph · LangChain · RAG · Embeddings · Tool Calling  
 
 ### Deployment & MLOps
-FastAPI · Docker · MLflow · GitHub Actions · AWS (S3, ECS, ECR)  
+FastAPI · Docker · MLflow · GitHub Actions · AWS  
 
 ### Data
 Pandas · NumPy · Matplotlib · Seaborn · Streamlit  
 
 ---
 
-# Current Direction
+# 🔍 Currently Exploring
 
 - Transformer internals and attention behavior  
 - Memory-aware agent systems  
-- Evaluation of retrieval pipelines  
+- Retrieval evaluation methods  
 - Failure analysis in ML systems  
-- Production trade-offs in GenAI systems  
+- Practical trade-offs in GenAI deployment  
 
 ---
 
-# Engineering Approach
+# ☀️ A Small Philosophy
 
-I try to keep systems:
-
-- Understandable  
-- Testable  
-- Deployment-aware  
-- Designed with explicit assumptions  
-
-I learn best by building complete systems rather than isolated components.
+Build slowly.  
+Understand deeply.  
+Let clarity compound.
 
 ---
 
 <div align="center">
 
-### Links
+### 🌐 Connect
 
-LinkedIn  
-https://www.linkedin.com/in/ayush-kumar-0a7b85303  
-
-X  
-https://x.com/AyushSyntax  
+[LinkedIn](https://www.linkedin.com/in/ayush-kumar-0a7b85303)  
+[X](https://x.com/AyushSyntax)
 
 </div>
