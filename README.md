@@ -15,7 +15,6 @@
 
 <img src="https://img.shields.io/badge/Focus-GenAI_%7C_RAG_%7C_MLOps-8B5CF6?style=flat-square&logo=apache-spark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-Building_Agentic_Systems-00FF99?style=flat-square&logo=githubactions&logoColor=000000"/>
-<img src="https://img.shields.io/badge/University-Kurukshetra_University-00E5FF?style=flat-square"/>
 
 </div>
 
@@ -27,7 +26,7 @@
 name: Ayush Kumar
 alias: ayushsyntax
 role: Data Scientist & Machine Learning Engineer
-location: Chandigarh, India
+location: India
 education: B.Tech — Artificial Intelligence & Data Science
 university: Kurukshetra University
 
