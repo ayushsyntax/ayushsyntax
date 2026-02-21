@@ -1,37 +1,22 @@
-<!-- Dynamic widgets from github-readme-stats [web:71] and github-readme-activity-graph [web:85][web:89] -->
-
 <div align="center">
 
-  <!-- Animated Title -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Ayush+Kumar;Data+Scientist+%26+ML+Engineer;GenAI+%7C+RAG+%7C+MLOps+%7C+Deep+Learning;Transforming+Data+Into+Intelligence"
-    alt="Typing introduction"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,50:00E5FF,100:8B5CF6&height=200&section=header&text=Ayush%20Kumar&fontSize=65&fontColor=ffffff&animation=twinkling&desc=Data%20Scientist%20%26%20ML%20Engineer&descSize=20&descAlignY=75" alt="header"/>
 
-  <br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=Architecting+Intelligent+Systems;GenAI+%7C+RAG+%7C+MLOps+%7C+Deep+Learning;Building+AI+that+ships+to+production" alt="typing"/>
 
-  <!-- Social Links -->
-  <a href="https://www.linkedin.com/in/ayushsyntax">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ayushsyntax">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/ayushsyntax">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://x.com/AyushSyntax">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:ayushsyntax@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<br/>
 
-  <br/><br/>
+<a href="https://www.linkedin.com/in/ayushsyntax"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ayushsyntax"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://kaggle.com/ayushsyntax"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://x.com/AyushSyntax"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:ayushsyntax@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-  <!-- Focus / Status badges -->
-  <img src="https://img.shields.io/badge/FOCUS-GenAI_%7C_RAG_%7C_MLOps-8B5CF6?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-Building_Agentic_Systems-00FF99?style=for-the-badge&logo=githubactions&logoColor=000000" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Focus-GenAI_%7C_RAG_%7C_MLOps-8B5CF6?style=flat-square&logo=apache-spark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Building_Agentic_Systems-00FF99?style=flat-square&logo=githubactions&logoColor=000000"/>
+<img src="https://img.shields.io/badge/University-Kurukshetra_University-00E5FF?style=flat-square"/>
 
 </div>
 
@@ -44,79 +29,58 @@ name: Ayush Kumar
 alias: ayushsyntax
 role: Data Scientist & Machine Learning Engineer
 location: Chandigarh, India
-education: B.Tech in Artificial Intelligence & Data Science
+education: B.Tech — Artificial Intelligence & Data Science
 university: Kurukshetra University
-domains:
-  - GenAI, RAG, and agentic AI systems
-  - MLOps, experiment tracking, and reproducible pipelines
-  - Time-series forecasting and probabilistic modeling
-  - Deep Learning and Transformer architectures
-superpowers:
-  - Crafting production-grade AI pipelines
-  - Mastering agentic workflows with memory & observability
-  - Deploying scalable ML systems on cloud
-  - Diving deep into model internals for true understanding
-motto: "Code like a wizard, deploy like a boss. Innovate relentlessly."
-```
 
-I turn raw data streams into intelligent, reliable systems. From GPT-style models built from scratch to RAG pipelines with tool-using agents, I care about robustness, observability, and grounded reasoning—not just flashy benchmarks.
+what_i_build:
+  - Agentic AI systems with persistent memory & observability
+  - End-to-end RAG pipelines with dynamic query reasoning
+  - Reproducible MLOps: MLflow · DVC · Docker · AWS
+  - Transformers & deep learning architectures from scratch
+
+currently_working_on: Reasona — a self-reflective RAG engine
+motto: "Code like a wizard, deploy like a boss."
+```
 
 ---
 
-## 🎛 Dynamic Dashboard
+## 📊 Activity
 
 <div align="center">
 
-  <!-- Mixed-theme stats -->
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true"
-    alt="Ayush's GitHub stats - radical"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsyntax&layout=compact&theme=tokyonight&langs_count=8"
-    alt="Top languages - tokyo night"
-  />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&hide_border=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsyntax&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="langs"/>
 
-  <br/>
+<br/>
 
-  <!-- Streak in cyberpunk theme -->
-  <img
-    src="https://streak-stats.demolab.com?user=ayushsyntax&theme=tokyonight-duo&hide_border=true&border_radius=10"
-    alt="GitHub streak - tokyo night duo"
-  />
+<img src="https://streak-stats.demolab.com?user=ayushsyntax&theme=radical&hide_border=true&border_radius=8" alt="streak"/>
 
-  <br/><br/>
+<br/>
 
-  <!-- Activity graph with synthwave-like palette -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsyntax&theme=synthwave-84&hide_border=true&area=true"
-    alt="GitHub activity graph - synthwave-84"
-  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsyntax&theme=rogue&hide_border=true&area=true" alt="activity graph"/>
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 Agentic Research Assistant
-LangGraph-powered AI agent with persistent memory, tool integration, and LangSmith observability. Automates research workflows while keeping a human-in-the-loop for control.
+LangGraph agent with persistent memory, modular tool integration, and LangSmith tracing. Human-in-the-loop for controlled autonomous research.
 
-[![View Project](https://img.shields.io/badge/View_Project-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/agentic-research-assistant)
+[![View](https://img.shields.io/badge/View_Repo-FF2D78?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/agentic-research-assistant)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏠 End-to-End ML Pipeline
-Time-series forecasting system with MLflow tracking, DVC data versioning, Dockerized services, and AWS EC2/S3 deployment for reproducible, production-grade ML.
+### ⚙️ End-to-End ML Pipeline
+Time-series forecasting with MLflow, DVC, Docker, and AWS EC2/S3. Fully reproducible, production-ready MLOps stack.
 
-[![View Project](https://img.shields.io/badge/View_Project-00FF7F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/ml-pipeline)
+[![View](https://img.shields.io/badge/View_Repo-00FF99?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayushsyntax/ml-pipeline)
 
 </td>
 </tr>
@@ -124,28 +88,32 @@ Time-series forecasting system with MLflow tracking, DVC data versioning, Docker
 <td width="50%" valign="top">
 
 ### 🧬 GPT from Scratch
-Decoder-only Transformer implemented from scratch, trained on Shakespeare and achieving 3.02 perplexity. Includes custom attention, tokenization, and training optimizations.
+Decoder-only Transformer trained on Shakespeare, reaching 3.02 perplexity. Custom attention, tokenization, and training loop—no shortcuts.
 
-[![View Project](https://img.shields.io/badge/View_Project-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/gpt-from-scratch)
+[![View](https://img.shields.io/badge/View_Repo-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayushsyntax/gpt-from-scratch)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔄 Reasona
-Self-reflective RAG system inspired by HyDE and SEAL with dynamic query expansion and multi-stage reasoning to boost retrieval quality and answer grounding.
+### 🔮 Reasona
+Self-reflective RAG engine inspired by HyDE and SEAL. Dynamic query expansion and multi-stage reasoning for grounded, accurate retrieval.
 
-[![View Project](https://img.shields.io/badge/View_Project-4169E1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/reasona)
+[![View](https://img.shields.io/badge/View_Repo-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayushsyntax/reasona)
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ayushsyntax&theme=radical&no-bg=true&margin-w=12&margin-h=12&column=6&no-frame=true" alt="trophies"/>
+</div>
+
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠 Tech Stack
 
 <details open>
-<summary><b>🧑‍💻 Programming Languages</b></summary>
+<summary><b>Languages</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -155,7 +123,7 @@ Self-reflective RAG system inspired by HyDE and SEAL with dynamic query expansio
 </details>
 
 <details open>
-<summary><b>📊 Data Science & Analytics</b></summary>
+<summary><b>Data Science</b></summary>
 <br/>
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -166,7 +134,7 @@ Self-reflective RAG system inspired by HyDE and SEAL with dynamic query expansio
 </details>
 
 <details open>
-<summary><b>🤖 Machine Learning & Deep Learning</b></summary>
+<summary><b>ML / Deep Learning</b></summary>
 <br/>
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -177,7 +145,7 @@ Self-reflective RAG system inspired by HyDE and SEAL with dynamic query expansio
 </details>
 
 <details open>
-<summary><b>🚀 GenAI & LLM Stack</b></summary>
+<summary><b>GenAI & LLMs</b></summary>
 <br/>
 
 ![LangChain](https://img.shields.io/badge/LangChain-2E7D32?style=for-the-badge)
@@ -189,7 +157,7 @@ Self-reflective RAG system inspired by HyDE and SEAL with dynamic query expansio
 </details>
 
 <details open>
-<summary><b>⚙️ MLOps & Deployment</b></summary>
+<summary><b>MLOps & Deployment</b></summary>
 <br/>
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -206,10 +174,16 @@ Self-reflective RAG system inspired by HyDE and SEAL with dynamic query expansio
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=ayushsyntax&style=for-the-badge&color=00FF99&label=Profile+Views" alt="Profile views counter"/>
-  <br/><br/>
-  <b><i>Always learning, always coding.</i></b>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ayushsyntax&style=for-the-badge&color=00FF99&label=Profile+Views" alt="views"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:00E5FF,100:00FF99&height=120&section=footer" alt="footer"/>
+
 </div>
 ```
