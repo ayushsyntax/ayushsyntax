@@ -1,179 +1,115 @@
 
-# 🌃 Ayush Kumar | Cybernetic Intelligence Architect
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,50:0088FF,100:8B5CF6&height=200&section=header&text=AYUSH%20KUMAR&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DATA%20SCIENTIST%20%26%20ML%20ENGINEER&descAlignY=55&descSize=28&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,40:FF1493,70:00BFFF,100:8B5CF6&height=250&section=header&text=Ayush%20Kumar&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Neon%20AI%20Architect&descAlignY=55&descSize=24&reversal=false&fontWeight=700"/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=Decoding+Neural+Realms;Agentic+AI+%7C+RAG+Pipelines+%7C+MLOps+Flows;Hacking+Data+Into+Sentience"/>
+  
+  <br/>
+  
+  <a href="https://www.linkedin.com/in/ayushsyntax"><img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
+  <a href="https://github.com/ayushsyntax"><img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=000000"/></a>
+  <a href="https://kaggle.com/ayushsyntax"><img src="https://img.shields.io/badge/Kaggle-FF69B4?style=for-the-badge&logo=kaggle&logoColor=000000"/></a>
+  <a href="https://x.com/AyushSyntax"><img src="https://img.shields.io/badge/X-00BFFF?style=for-the-badge&logo=x&logoColor=000000"/></a>
+  <a href="mailto:ayushsyntax@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
 </div>
 
----
+<img src="https://i.giphy.com/media/l0MYC0LdjEMt3a0YC/giphy.gif" width="100%"/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-## 🤖 **CYBERNETIC PROFILE MATRIX**
-
+## Neural Core
 ```yaml
-┌─────────────────────────────────────────────────────────────┐
-│ [CORE IDENTIFIER]                                           │
-│ name: "Ayush Kumar"                                         │
-│ role: "Data Scientist & ML Engineer"                        │
-│ clearance: "Level 5 - Neural Architect"                     │
-│ affiliation: "Kurukshetra University - AI & Data Science"   │
-│                                                             │
-│ [COGNITIVE FRAMEWORK]                                       │
-│ specialties: [                                              │
-│   "Neural System Architecture",                             │
-│   "Quantum Data Processing",                                │
-│   "Autonomous Intelligence Orchestration",                  │
-│   "Cognitive Pattern Recognition"                           │
-│ ]                                                           │
-│                                                             │
-│ [OPERATIONAL MANIFESTO]                                     │
-│ directive: "Transform raw data into sentient intelligence"  │
-│ protocol: "Code like a wizard, deploy like a boss"          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+neural_id: Ayush.Kumar.v2.0
+role: Neon-Powered Data Scientist & ML Engineer
+neural_net: B.Tech AI & Data Science - Kurukshetra University
+core_protocols:
+  - Agentic workflows with persistent memory grids
+  - Scalable RAG pipelines & LLM orchestration
+  - End-to-end MLOps: MLflow/DVC/Docker/AWS
+  - Transformer internals & custom neural architectures
+transmission: "Plugging into data streams. Building sentient agents. Deploying in the grid."
 ```
 
----
-
-## 🚀 **PROJECT NEXUS**
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277e3014d14ecc04c710c7e5a9e580e7f6e0d/Cover.jpg" width="100%"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&theme=synthwave&rank_icon=github&include_all_commits=true&bg_color=0D1117&border_color=00FF99&title_color=FF1493&text_color=00BFFF&hide_border=true"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsyntax&layout=compact&theme=synthwave&langs_count=8&bg_color=0D1117&hide_border=true"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ayushsyntax&theme=synthwave&hide_border=true&border_radius=20&background=0D1117"/>
+</div>
+
+<img src="https://i.giphy.com/media/l0MYC0LdjEMt3a0YC/giphy.gif" width="100%"/>
+
+## Grid Intrusion Points
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔮 **AGENTIC RESEARCH ASSISTANT**
-<p>LangGraph-powered autonomous intelligence with persistent neural memory, tool integration, and LangSmith observability protocols.</p>
+### 🧠 Agentic Research Assistant
+<p>LangGraph neural node with memory vaults, tool interfaces, LangSmith telemetry. Human-loop breach protocols for autonomous research hacks.</p>
 
-[![Access Nexus](https://img.shields.io/badge/ACCESS_NEXUS-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/agentic-research-assistant)
+[![Intrude Repo](https://img.shields.io/badge/Intrude-00FF41?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/ayushsyntax/agentic-research-assistant)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏠 **ML PIPELINE CORE**
-<p>Time-series forecasting mainframe with MLflow experiment tracking, DVC data versioning, Docker containerization, and AWS deployment protocols.</p>
+### ⚡ End-to-End ML Pipeline
+<p>Time-series oracle with MLflow logs, DVC versioning, Docker pods, AWS EC2/S3 deployment. Production-grade data flow under neon lights.</p>
 
-[![Access Nexus](https://img.shields.io/badge/ACCESS_NEXUS-00FF7F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/ml-pipeline)
+[![Intrude Repo](https://img.shields.io/badge/Intrude-FF1493?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/ayushsyntax/ml-pipeline)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 **GPT CORE ARCHITECTURE**
-<p>Custom decoder-only Transformer architecture, trained on Shakespeare dataset achieving 3.02 perplexity. Includes neural attention mechanisms.</p>
+### 🧬 GPT from Scratch
+<p>Decoder-only Transformer forged raw. Shakespeare dataset convergence: 3.02 perplexity. Custom attention kernels optimized for the grid.</p>
 
-[![Access Nexus](https://img.shields.io/badge/ACCESS_NEXUS-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/gpt-from-scratch)
+[![Intrude Repo](https://img.shields.io/badge/Intrude-00BFFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/ayushsyntax/gpt-from-scratch)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔄 **REASONA COGNITIVE SYSTEM**
-<p>Self-reflective RAG system inspired by HyDE and SEAL, with dynamic query expansion and multi-stage reasoning protocols.</p>
+### 🔮 Reasona
+<p>Self-reflective RAG nexus. HyDE/SEAL fusion with query expansion & multi-stage inference. Retrieval accuracy amplified in the shadows.</p>
 
-[![Access Nexus](https://img.shields.io/badge/ACCESS_NEXUS-4169E1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/reasona)
+[![Intrude Repo](https://img.shields.io/badge/Intrude-FF69B4?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/ayushsyntax/reasona)
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ **TECHNOLOGICAL SYNTHESIS**
-
-<details open>
-<summary><b>🧑‍💻 <i>Programming Languages</i></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=000000)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
-
-</details>
-
-<details open>
-<summary><b>📊 <i>Data Science Framework</i></summary>
-<br/>
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=000000)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&labelColor=000000)
-
-</details>
-
-<details open>
-<summary><b>🤖 <i>Machine Intelligence Stack</i></summary>
-<br/>
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=000000)
-
-</details>
-
-<details open>
-<summary><b>🚀 <i>Generative Intelligence Suite</i></summary>
-<br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-2E7D32?style=for-the-badge&labelColor=000000)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&labelColor=000000)
-![LangSmith](https://img.shields.io/badge/LangSmith-1F2937?style=for-the-badge&labelColor=000000)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=000000)
-
-</details>
-
-<details open>
-<summary><b>⚙️ <i>MLOps Infrastructure</i></summary>
-<br/>
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=000000)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&labelColor=000000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=000000)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-
-</details>
-
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushsyntax&style=for-the-badge&color=00FF99&label=PROFILE+VIEWS" alt="ayushsyntax" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushsyntax&theme=radical&no-bg=true&margin-w=15&margin-h=15&column=7&no-frame=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/images/trophy.gif" width="60"/>
-  <br/>
-  <i>Always evolving, always coding.</i>
-</div>
+<img src="https://i.giphy.com/media/l0MYC0LdjEMt3a0YC/giphy.gif" width="100%"/>
+
+## Cyber Arsenal Matrix
+
+| Layer | Protocols | Neon Intensity |
+|-------|-----------|----------------|
+| **Lang** | Python, C++, SQL | ![100%](https://progress-bar.dev/100/?color=00FF41) |
+| **DataForge** | NumPy, Pandas, Matplotlib, Seaborn | ![95%](https://progress-bar.dev/95/?color=FF1493) |
+| **NeuralCore** | Scikit-Learn, PyTorch, TensorFlow, Keras | ![98%](https://progress-bar.dev/98/?color=00BFFF) |
+| **GenGrid** | LangChain/Graph/Smith, OpenAI, HuggingFace | ![97%](https://progress-bar.dev/97/?color=FF69B4) |
+| **DeployNet** | FastAPI, Streamlit, Docker, AWS, MLflow, DVC, GitHub Actions | ![96%](https://progress-bar.dev/96/?color=9400D3) [web:12]
+
+<img src="https://i.giphy.com/media/l0MYC0LdjEMt3a0YC/giphy.gif" width="100%"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:0088FF,100:00FF99&height=150&section=footer&reversal=true"/>
-</div>
+### 🔮 Grid Echo
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
----
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277e3014d14ecc04c710c7e5a9e580e7f6e0d/Cover.jpg" width="100%"/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,40:00BFFF,70:FF1493,100:00FF41&height=150&section=footer&reversal=true"/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ayushsyntax"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ayushsyntax"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://kaggle.com/ayushsyntax"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://x.com/AyushSyntax"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:ayushsyntax@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=ayushsyntax&style=for-the-badge&color=00FF99&label=Profile+Bootups"/>
+
+<img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/images/trophy.gif" width="60"/>
+
+**<i>Always jacked in, always evolving.</i>**
 </div>
 ```
 
