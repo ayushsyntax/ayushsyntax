@@ -1,65 +1,97 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,40:FF1493,70:00BFFF,100:8B5CF6&height=250&section=header&text=Ayush%20Kumar&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Neon%20AI%20Architect&descAlignY=55&descSize=24&reversal=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,30:00E0FF,70:8B5CF6,100:FF00FF&height=250&section=header&text=Ayush%20Kumar&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%26%20ML%20Engineer&descAlignY=55&descSize=24&reversal=true"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=Decoding+Neural+Realms;Agentic+AI+%7C+RAG+Pipelines+%7C+MLOps+Flows;Hacking+Data+Into+Sentience"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Architecting+Intelligent+Systems;GenAI+%7C+RAG+%7C+MLOps+%7C+Deep+Learning;Transforming+Data+into+Intelligence;Always+Learning,+Always+Shipping"/>
   
   <br/>
-  
-  <a href="https://www.linkedin.com/in/ayushsyntax"><img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
-  <a href="https://github.com/ayushsyntax"><img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=000000"/></a>
-  <a href="https://kaggle.com/ayushsyntax"><img src="https://img.shields.io/badge/Kaggle-FF69B4?style=for-the-badge&logo=kaggle&logoColor=000000"/></a>
-  <a href="https://x.com/AyushSyntax"><img src="https://img.shields.io/badge/X-00BFFF?style=for-the-badge&logo=x&logoColor=000000"/></a>
-  <a href="mailto:ayushsyntax@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
+
+  <!-- Social Links -->
+  <a href="https://www.linkedin.com/in/ayushsyntax">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ayushsyntax">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://kaggle.com/ayushsyntax">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://x.com/AyushSyntax">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:ayushsyntax@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Quick Meta Badges -->
+  <img src="https://img.shields.io/badge/Focus-GenAI_%7C_RAG_%7C_MLOps-8B5CF6?style=for-the-badge&logo=protobuf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Building_Agentic_Systems-00FF99?style=for-the-badge&logo=githubactions&logoColor=000000"/>
 </div>
 
-<img src="https://media.giphy.com/media/l0Iyl55F9KhuxV4b2/giphy.gif" alt="Matrix Rain" width="100%"/>
+---
 
-## Neural Core
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🚀 About Me
+
 ```yaml
-neural_id: Ayush.Kumar.v2.2
-role: Neon-Powered Data Scientist & ML Engineer
+name: Ayush Kumar
+alias: ayushsyntax
+role: Data Scientist & Machine Learning Engineer
 location: Chandigarh, India
-neural_net: B.Tech AI & Data Science - Kurukshetra University
-intrusions:
-  - Pickl.AI Internship (Jul-Aug 2025): Rainfall prediction - XGBoost/LogReg, 89%+ ROC AUC [linkedin](https://www.linkedin.com/in/ayushsyntax)
-core_protocols:
-  - Agentic workflows with memory & LangSmith
-  - RAG pipelines & LLM tool calling
-  - MLOps: MLflow/DVC/Docker/AWS/FastAPI
-  - Transformers & Deep Learning from scratch
-transmission: "Jacked into the grid. Forging sentient systems."
+education: B.Tech in Artificial Intelligence & Data Science
+university: Kurukshetra University
+domains:
+  - GenAI, RAG, and agentic AI systems
+  - MLOps, experiment tracking, and reproducible pipelines
+  - Time-series forecasting and probabilistic modeling
+  - Deep Learning and Transformer architectures
+superpowers:
+  - Crafting production-grade AI & RAG pipelines
+  - Mastering agentic workflows with memory & observability
+  - Deploying scalable ML systems on the cloud
+  - Diving deep into model internals for true understanding
+motto: "Code like a wizard, deploy like a boss. Innovate relentlessly."
 ```
 
+I turn raw, messy data into intelligent systems that actually ship to production. From building GPT-style models from scratch to orchestrating complex RAG pipelines with tool-using agents, I care about reliability, observability, and explainability just as much as accuracy.
+
+---
+
+## 📊 Code in the Grid
+
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true"/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsyntax&layout=compact&theme=radical&langs_count=8"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsyntax&layout=compact&theme=radical&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushsyntax&theme=radical&hide_border=true&border_radius=20"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushsyntax&theme=radical&no-bg=true&margin-w=15&margin-h=15&column=7"/>
+  <img src="https://streak-stats.demolab.com?user=ayushsyntax&theme=radical&hide_border=true&border_radius=10"/>
 </div>
 
-<img src="https://media.giphy.com/media/l0Iyl55F9KhuxV4b2/giphy.gif" alt="Matrix Rain" width="100%"/>
+---
 
-## Grid Intrusion Points
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🌟 Featured Projects
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Agentic Research Assistant
-LangGraph agent with persistent memory, tools, LangSmith observability. Human-in-loop research automation.
+### 🤖 Agentic Research Assistant
+LangGraph-powered AI agent with persistent memory, tool integration, and LangSmith observability. Automates deep research workflows with a human-in-the-loop safety layer.
 
-[![Intrude](https://img.shields.io/badge/Intrude-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayushsyntax/agentic-research-assistant)
+[![View Project](https://img.shields.io/badge/View_Project-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/agentic-research-assistant)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ ML Pipeline
-Time-series forecasting: MLflow tracking, DVC, Docker, AWS EC2/S3 deploy.
+### 🏠 End-to-End ML Pipeline
+Time-series forecasting system with MLflow experiment tracking, DVC data versioning, Dockerized services, and AWS EC2/S3 deployment for fully reproducible MLOps.
 
-[![Intrude](https://img.shields.io/badge/Intrude-FF1493?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayushsyntax/ml-pipeline)
+[![View Project](https://img.shields.io/badge/View_Project-00FF7F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/ml-pipeline)
 
 </td>
 </tr>
@@ -67,47 +99,117 @@ Time-series forecasting: MLflow tracking, DVC, Docker, AWS EC2/S3 deploy.
 <td width="50%" valign="top">
 
 ### 🧬 GPT from Scratch
-Decoder-only Transformer on Shakespeare (3.02 perplexity). Custom attention/optimizations.
+Decoder-only Transformer implemented from the ground up, trained on a Shakespeare corpus and achieving 3.02 perplexity. Includes custom attention, tokenization, and training optimizations.
 
-[![Intrude](https://img.shields.io/badge/Intrude-00BFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayushsyntax/gpt-from-scratch)
+[![View Project](https://img.shields.io/badge/View_Project-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/gpt-from-scratch)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔮 Reasona
-Reflective RAG: HyDE/SEAL, dynamic queries, multi-reasoning.
+### 🔄 Reasona
+Self-reflective RAG system inspired by HyDE and SEAL, featuring dynamic query expansion and multi-stage reasoning for sharper retrieval and more grounded answers.
 
-[![Intrude](https://img.shields.io/badge/Intrude-FF69B4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayushsyntax/reasona)
+[![View Project](https://img.shields.io/badge/View_Project-4169E1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/reasona)
 
 </td>
 </tr>
 </table>
 
-<img src="https://media.giphy.com/media/l0Iyl55F9KhuxV4b2/giphy.gif" alt="Matrix Rain" width="100%"/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushsyntax&theme=radical&no-bg=true&margin-w=15&margin-h=15&column=7"/>
+</div>
 
-## Cyber Arsenal
-| Layer | Stack | Level |
-|-------|--------|-------|
-| Lang | Python C++ SQL | ![100%](https://progress-bar.dev/100/?color=00ff41) |
-| Data | NumPy Pandas Matplotlib Seaborn | ![95%](https://progress-bar.dev/95/?color=ff1493) |
-| ML/DL | Scikit PyTorch TensorFlow Keras | ![98%](https://progress-bar.dev/98/?color=00bfff) |
-| GenAI | LangChain/Graph OpenAI HF | ![97%](https://progress-bar.dev/97/?color=ff69b4) |
-| MLOps | FastAPI Docker AWS MLflow DVC | ![96%](https://progress-bar.dev/96/?color=9400d3) [web:12]
+---
 
-<img src="https://media.giphy.com/media/l0Iyl55F9KhuxV4b2/giphy.gif" alt="Matrix Rain" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🛠️ Tech Arsenal
+
+<details open>
+<summary><b>🧑‍💻 Programming Languages</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>📊 Data Science & Analytics</b></summary>
+<br/>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>🤖 Machine Learning & Deep Learning</b></summary>
+<br/>
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🚀 GenAI & LLM Stack</b></summary>
+<br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-2E7D32?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-1F2937?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>⚙️ MLOps & Deployment</b></summary>
+<br/>
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</details>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
-### 🔮 Grid Echo
+
+### 💡 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277e3014d14ecc04c710c7e5a9e580e7f6e0d/Cover.jpg" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,40:00BFFF,70:FF1493,100:00FF41&height=150&section=footer&reversal=true"/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ayushsyntax&style=for-the-badge&color=00FF99&label=Bootups"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:0088FF,100:00FF99&height=150&section=footer&reversal=true"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ayushsyntax&style=for-the-badge&color=00FF99&label=Profile+Views"/>
+
+<br/>
 
 <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/images/trophy.gif" width="60"/>
 
-**<i>Always jacked in. Evolving in the neon.</i>**
+**<i>Always learning, always coding.</i>**
+
 </div>
 ```
