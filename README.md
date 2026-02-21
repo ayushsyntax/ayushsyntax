@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Kumar;Data+Scientist+%26+ML+Engineer;GenAI+%7C+RAG+%7C+MLOps+%7C+Deep+Learning;Building+AI+that+ships+to+production" alt="typing"/>
@@ -18,7 +17,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🚀 About Me
 
@@ -40,7 +39,7 @@ currently_working_on: Reasona — a self-reflective RAG engine
 motto: "Code like a wizard, deploy like a boss."
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 📊 Activity
 
@@ -55,7 +54,7 @@ motto: "Code like a wizard, deploy like a boss."
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🌟 Projects
 
@@ -98,7 +97,7 @@ Self-reflective RAG engine inspired by HyDE and SEAL. Dynamic query expansion an
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🛠 Tech Stack
 
@@ -161,7 +160,7 @@ Self-reflective RAG engine inspired by HyDE and SEAL. Dynamic query expansion an
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 
