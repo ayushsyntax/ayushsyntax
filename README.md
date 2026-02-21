@@ -1,15 +1,15 @@
 
 <div align="center">
 
-  <!-- Typing Title -->
+  <!-- Animated Title (stable) -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Architecting+Intelligent+Systems;GenAI+%7C+RAG+%7C+MLOps+%7C+Deep+Learning;Transforming+Data+Into+Intelligence"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Ayush+Kumar;Data+Scientist+%26+ML+Engineer;GenAI+%7C+RAG+%7C+MLOps+%7C+Deep+Learning;Transforming+Data+Into+Intelligence"
     alt="Typing introduction"
   />
 
   <br/>
 
-  <!-- Social Links -->
+  <!-- Social Links (stable shields.io) -->
   <a href="https://www.linkedin.com/in/ayushsyntax">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -36,8 +36,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon divider"/>
-
 ## 🚀 About Me
 
 ```yaml
@@ -60,35 +58,9 @@ superpowers:
 motto: "Code like a wizard, deploy like a boss. Innovate relentlessly."
 ```
 
-I love turning raw data streams into intelligent, reliable systems. From building GPT-style models from scratch to orchestrating complex RAG pipelines with tool-using agents, I focus on robustness, observability, and clear reasoning, not just flashy demos.
+I love turning raw data streams into intelligent, reliable systems. From GPT-style models built from scratch to RAG pipelines with tool-using agents, I care about robustness, observability, and grounded reasoning—not just benchmarks.
 
 ---
-
-## 📊 Activity & Languages
-
-<div align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true"
-    alt="Ayush's GitHub stats"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsyntax&layout=compact&theme=radical&langs_count=8"
-    alt="Top languages"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ayushsyntax&theme=radical&hide_border=true&border_radius=10"
-    alt="GitHub streak"
-  />
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon divider"/>
 
 ## 🌟 Featured Projects
 
@@ -123,7 +95,7 @@ Decoder-only Transformer implemented from scratch, trained on Shakespeare and ac
 <td width="50%" valign="top">
 
 ### 🔄 Reasona
-Self-reflective RAG system inspired by HyDE and SEAL with dynamic query expansion and multi-stage reasoning, boosting retrieval quality and answer grounding.
+Self-reflective RAG system inspired by HyDE and SEAL with dynamic query expansion and multi-stage reasoning to boost retrieval quality and answer grounding.
 
 [![View Project](https://img.shields.io/badge/View_Project-4169E1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/reasona)
 
@@ -131,16 +103,7 @@ Self-reflective RAG system inspired by HyDE and SEAL with dynamic query expansio
 </tr>
 </table>
 
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ayushsyntax&theme=radical&no-bg=true&margin-w=15&margin-h=15&column=7"
-    alt="Profile trophies"
-  />
-</div>
-
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon divider"/>
 
 ## 🛠️ Tech Arsenal
 
@@ -205,21 +168,67 @@ Self-reflective RAG system inspired by HyDE and SEAL with dynamic query expansio
 
 ---
 
+## 💡 Random Dev Quote & Stats (Optional Themes)
+
+> These use third‑party dynamic services that can *occasionally* be down or rate‑limited, which is when you see “broken” images. Uncomment one theme block if you want them. [web:71][web:73][web:74][web:79]
+
+```markdown
+<!-- THEME A: Radical (neon cyberpunk) -->
+
 <div align="center">
-
-### 💡 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ayushsyntax&style=for-the-badge&color=00FF99&label=Profile+Views" alt="Profile views"/>
-
-<br/><br/>
-
-<img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/images/trophy.gif" width="60" alt="Trophy gif"/>
-
-**<i>Always learning, always coding.</i>**
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true"
+    alt="Ayush's GitHub stats - radical theme"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsyntax&layout=compact&theme=radical&langs_count=8"
+    alt="Top languages - radical theme"
+  />
+  <br/>
+  <img
+    src="https://streak-stats.demolab.com?user=ayushsyntax&theme=radical&hide_border=true&border_radius=10"
+    alt="GitHub streak - radical theme"
+  />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushsyntax&theme=radical&no-bg=true&margin-w=15&margin-h=15&column=6" alt="Profile trophies - radical theme"/>
+  <br/><br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote - radical"/>
 </div>
+
+<!-- THEME B: Tokyo Night (different vibe) -->
+
+<!--
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true"
+    alt="Ayush's GitHub stats - tokyo night"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsyntax&layout=compact&theme=tokyonight&langs_count=8"
+    alt="Top languages - tokyo night"
+  />
+  <br/>
+  <img
+    src="https://streak-stats.demolab.com?user=ayushsyntax&theme=tokyonight_duo&hide_border=true&border_radius=10"
+    alt="GitHub streak - tokyo night"
+  />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushsyntax&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15&column=6" alt="Profile trophies - tokyo night"/>
+  <br/><br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote - tokyo night"/>
+</div>
+-->
 ```
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushsyntax&style=for-the-badge&color=00FF99&label=Profile+Views" alt="Profile views counter"/>
+  <br/><br/>
+  <b><i>Always learning, always coding.</i></b>
+</div>
+```
