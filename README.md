@@ -13,13 +13,16 @@
   <a href="mailto:ayushsyntax@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
 </div>
 
-<img src="https://i.giphy.com/media/l0MYC0LdjEMt3a0YC/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/l0Iyl55F9KhuxV4b2/giphy.gif" alt="Matrix Rain" width="100%"/>
 
 ## Neural Core
 ```yaml
-neural_id: Ayush.Kumar.v2.0
+neural_id: Ayush.Kumar.v2.1
 role: Neon-Powered Data Scientist & ML Engineer
+location: Chandigarh, India
 neural_net: B.Tech AI & Data Science - Kurukshetra University
+intrusions:
+  - Pickl.AI Internship (Jul-Aug 2025): Rainfall prediction - XGBoost/LogReg, 89%+ ROC AUC, full pipeline [linkedin](https://www.linkedin.com/in/ayushsyntax)
 core_protocols:
   - Agentic workflows with persistent memory grids
   - Scalable RAG pipelines & LLM orchestration
@@ -29,15 +32,16 @@ transmission: "Plugging into data streams. Building sentient agents. Deploying i
 ```
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&theme=synthwave&rank_icon=github&include_all_commits=true&bg_color=0D1117&border_color=00FF99&title_color=FF1493&text_color=00BFFF&hide_border=true"/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsyntax&layout=compact&theme=synthwave&langs_count=8&bg_color=0D1117&hide_border=true"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsyntax&layout=compact&theme=dracula&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushsyntax&theme=synthwave&hide_border=true&border_radius=20&background=0D1117"/>
+  <img src="https://streak-stats.demolab.com?user=ayushsyntax&theme=radical&hide_border=true&border_radius=20"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushsyntax&theme=dracula&no-bg=true&margin-w=15&margin-h=15&column=7&no-frame=true"/>
 </div>
 
-<img src="https://i.giphy.com/media/l0MYC0LdjEMt3a0YC/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/l0Iyl55F9KhuxV4b2/giphy.gif" alt="Matrix Rain" width="100%"/>
 
 ## Grid Intrusion Points
 <table>
@@ -45,7 +49,7 @@ transmission: "Plugging into data streams. Building sentient agents. Deploying i
 <td width="50%" valign="top">
 
 ### 🧠 Agentic Research Assistant
-<p>LangGraph neural node with memory vaults, tool interfaces, LangSmith telemetry. Human-loop breach protocols for autonomous research hacks.</p>
+LangGraph neural node with memory vaults, tool interfaces, LangSmith telemetry. Human-loop for autonomous research hacks.
 
 [![Intrude Repo](https://img.shields.io/badge/Intrude-00FF41?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/ayushsyntax/agentic-research-assistant)
 
@@ -53,7 +57,7 @@ transmission: "Plugging into data streams. Building sentient agents. Deploying i
 <td width="50%" valign="top">
 
 ### ⚡ End-to-End ML Pipeline
-<p>Time-series oracle with MLflow logs, DVC versioning, Docker pods, AWS EC2/S3 deployment. Production-grade data flow under neon lights.</p>
+Time-series oracle with MLflow logs, DVC versioning, Docker pods, AWS EC2/S3. Production data flow under neon.
 
 [![Intrude Repo](https://img.shields.io/badge/Intrude-FF1493?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/ayushsyntax/ml-pipeline)
 
@@ -63,7 +67,7 @@ transmission: "Plugging into data streams. Building sentient agents. Deploying i
 <td width="50%" valign="top">
 
 ### 🧬 GPT from Scratch
-<p>Decoder-only Transformer forged raw. Shakespeare dataset convergence: 3.02 perplexity. Custom attention kernels optimized for the grid.</p>
+Decoder-only Transformer forged raw. Shakespeare: 3.02 perplexity. Custom attention kernels.
 
 [![Intrude Repo](https://img.shields.io/badge/Intrude-00BFFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/ayushsyntax/gpt-from-scratch)
 
@@ -71,7 +75,7 @@ transmission: "Plugging into data streams. Building sentient agents. Deploying i
 <td width="50%" valign="top">
 
 ### 🔮 Reasona
-<p>Self-reflective RAG nexus. HyDE/SEAL fusion with query expansion & multi-stage inference. Retrieval accuracy amplified in the shadows.</p>
+Self-reflective RAG nexus. HyDE/SEAL fusion, query expansion, multi-stage inference.
 
 [![Intrude Repo](https://img.shields.io/badge/Intrude-FF69B4?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/ayushsyntax/reasona)
 
@@ -79,27 +83,22 @@ transmission: "Plugging into data streams. Building sentient agents. Deploying i
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushsyntax&theme=radical&no-bg=true&margin-w=15&margin-h=15&column=7&no-frame=true"/>
-</div>
-
-<img src="https://i.giphy.com/media/l0MYC0LdjEMt3a0YC/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/l0Iyl55F9KhuxV4b2/giphy.gif" alt="Matrix Rain" width="100%"/>
 
 ## Cyber Arsenal Matrix
-
 | Layer | Protocols | Neon Intensity |
 |-------|-----------|----------------|
-| **Lang** | Python, C++, SQL | ![100%](https://progress-bar.dev/100/?color=00FF41) |
-| **DataForge** | NumPy, Pandas, Matplotlib, Seaborn | ![95%](https://progress-bar.dev/95/?color=FF1493) |
-| **NeuralCore** | Scikit-Learn, PyTorch, TensorFlow, Keras | ![98%](https://progress-bar.dev/98/?color=00BFFF) |
-| **GenGrid** | LangChain/Graph/Smith, OpenAI, HuggingFace | ![97%](https://progress-bar.dev/97/?color=FF69B4) |
-| **DeployNet** | FastAPI, Streamlit, Docker, AWS, MLflow, DVC, GitHub Actions | ![96%](https://progress-bar.dev/96/?color=9400D3) [web:12]
+| Lang | Python, C++, SQL | ![100%](https://progress-bar.dev/100/?color=00ff41&suffix=) |
+| DataForge | NumPy, Pandas, Matplotlib, Seaborn | ![95%](https://progress-bar.dev/95/?color=ff1493&suffix=) |
+| NeuralCore | Scikit-Learn, PyTorch, TensorFlow, Keras | ![98%](https://progress-bar.dev/98/?color=00bfff&suffix=) |
+| GenGrid | LangChain/Graph/Smith, OpenAI, HuggingFace | ![97%](https://progress-bar.dev/97/?color=ff69b4&suffix=) |
+| DeployNet | FastAPI, Streamlit, Docker, AWS, MLflow, DVC | ![96%](https://progress-bar.dev/96/?color=9400d3&suffix=) [web:12]
 
-<img src="https://i.giphy.com/media/l0MYC0LdjEMt3a0YC/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/l0Iyl55F9KhuxV4b2/giphy.gif" alt="Matrix Rain" width="100%"/>
 
 <div align="center">
 ### 🔮 Grid Echo
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277e3014d14ecc04c710c7e5a9e580e7f6e0d/Cover.jpg" width="100%"/>
 
@@ -112,4 +111,3 @@ transmission: "Plugging into data streams. Building sentient agents. Deploying i
 **<i>Always jacked in, always evolving.</i>**
 </div>
 ```
-
