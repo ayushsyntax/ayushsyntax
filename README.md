@@ -1,32 +1,43 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,30:00E0FF,70:8B5CF6,100:FF00FF&height=250&section=header&text=Ayush%20Kumar&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%26%20ML%20Engineer&descAlignY=55&descSize=24&reversal=true"/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Architecting+Intelligent+Systems;GenAI+%7C+RAG+%7C+MLOps+%7C+Deep+Learning;Transforming+Data+into+Intelligence;Always+Learning,+Always+Shipping"/>
-  
+
+  <!-- Header Capsule -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,50:0088FF,100:8B5CF6&height=230&section=header&text=Ayush%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Data%20Scientist%20%26%20ML%20Engineer&descSize=20"
+    alt="Ayush Kumar - Data Scientist & ML Engineer"
+  />
+
+  <!-- Typing Title -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Architecting+Intelligent+Systems;GenAI+%7C+RAG+%7C+MLOps+%7C+Deep+Learning;Transforming+Data+into+Intelligence;Always+Learning,+Always+Shipping"
+    alt="Typing introduction"
+  />
+
   <br/>
 
   <!-- Social Links -->
   <a href="https://www.linkedin.com/in/ayushsyntax">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ayushsyntax">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://kaggle.com/ayushsyntax">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="https://x.com/AyushSyntax">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="mailto:ayushsyntax@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <br/><br/>
 
-  <!-- Quick Meta Badges -->
-  <img src="https://img.shields.io/badge/Focus-GenAI_%7C_RAG_%7C_MLOps-8B5CF6?style=for-the-badge&logo=protobuf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Building_Agentic_Systems-00FF99?style=for-the-badge&logo=githubactions&logoColor=000000"/>
+  <!-- Focus / Status badges -->
+  <img src="https://img.shields.io/badge/FOCUS-GenAI_%7C_RAG_%7C_MLOps-8B5CF6?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-Building_Agentic_Systems-00FF99?style=for-the-badge&logo=githubactions&logoColor=000000" />
+
 </div>
 
 ---
@@ -48,26 +59,26 @@ domains:
   - Time-series forecasting and probabilistic modeling
   - Deep Learning and Transformer architectures
 superpowers:
-  - Crafting production-grade AI & RAG pipelines
+  - Crafting production-grade AI pipelines
   - Mastering agentic workflows with memory & observability
-  - Deploying scalable ML systems on the cloud
+  - Deploying scalable ML systems on cloud
   - Diving deep into model internals for true understanding
 motto: "Code like a wizard, deploy like a boss. Innovate relentlessly."
 ```
 
-I turn raw, messy data into intelligent systems that actually ship to production. From building GPT-style models from scratch to orchestrating complex RAG pipelines with tool-using agents, I care about reliability, observability, and explainability just as much as accuracy.
+I’m passionate about transforming raw data into intelligent systems that solve real-world problems. From building GPTs from scratch to orchestrating complex RAG pipelines, I thrive on creating AI that’s not just smart, but reliable, observable, and explainable end to end.
 
 ---
 
 ## 📊 Code in the Grid
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsyntax&layout=compact&theme=radical&langs_count=8"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="Ayush's GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsyntax&layout=compact&theme=radical&langs_count=8" alt="Top languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushsyntax&theme=radical&hide_border=true&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=ayushsyntax&theme=radical&hide_border=true&border_radius=10" alt="GitHub streak"/>
 </div>
 
 ---
@@ -81,7 +92,7 @@ I turn raw, messy data into intelligent systems that actually ship to production
 <td width="50%" valign="top">
 
 ### 🤖 Agentic Research Assistant
-LangGraph-powered AI agent with persistent memory, tool integration, and LangSmith observability. Automates deep research workflows with a human-in-the-loop safety layer.
+LangGraph-powered AI agent with persistent memory, tool integration, and LangSmith observability. Automates research workflows with human-in-the-loop controls for reliability.
 
 [![View Project](https://img.shields.io/badge/View_Project-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/agentic-research-assistant)
 
@@ -89,7 +100,7 @@ LangGraph-powered AI agent with persistent memory, tool integration, and LangSmi
 <td width="50%" valign="top">
 
 ### 🏠 End-to-End ML Pipeline
-Time-series forecasting system with MLflow experiment tracking, DVC data versioning, Dockerized services, and AWS EC2/S3 deployment for fully reproducible MLOps.
+Time-series forecasting system with MLflow experiment tracking, DVC data versioning, Docker containerization, and AWS EC2/S3 deployment for reproducible, production-ready ML.
 
 [![View Project](https://img.shields.io/badge/View_Project-00FF7F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/ml-pipeline)
 
@@ -99,7 +110,7 @@ Time-series forecasting system with MLflow experiment tracking, DVC data version
 <td width="50%" valign="top">
 
 ### 🧬 GPT from Scratch
-Decoder-only Transformer implemented from the ground up, trained on a Shakespeare corpus and achieving 3.02 perplexity. Includes custom attention, tokenization, and training optimizations.
+Decoder-only Transformer architecture implemented from first principles, trained on the Shakespeare dataset and reaching 3.02 perplexity. Includes custom attention mechanisms, tokenization, and training optimizations.
 
 [![View Project](https://img.shields.io/badge/View_Project-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/gpt-from-scratch)
 
@@ -107,7 +118,7 @@ Decoder-only Transformer implemented from the ground up, trained on a Shakespear
 <td width="50%" valign="top">
 
 ### 🔄 Reasona
-Self-reflective RAG system inspired by HyDE and SEAL, featuring dynamic query expansion and multi-stage reasoning for sharper retrieval and more grounded answers.
+Self-reflective RAG system inspired by HyDE and SEAL, with dynamic query expansion and multi-stage reasoning to consistently boost retrieval quality and answer grounding.
 
 [![View Project](https://img.shields.io/badge/View_Project-4169E1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax/reasona)
 
@@ -116,7 +127,7 @@ Self-reflective RAG system inspired by HyDE and SEAL, featuring dynamic query ex
 </table>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushsyntax&theme=radical&no-bg=true&margin-w=15&margin-h=15&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushsyntax&theme=radical&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Profile trophies"/>
 </div>
 
 ---
@@ -191,25 +202,26 @@ Self-reflective RAG system inspired by HyDE and SEAL, featuring dynamic query ex
 <div align="center">
 
 ### 💡 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277e3014d14ecc04c710c7e5a9e580e7f6e0d/Cover.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277e3014d14ecc04c710c7e5a9e580e7f6e0d/Cover.jpg" width="100%" alt="Cyberpunk cover"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:0088FF,100:00FF99&height=150&section=footer&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:0088FF,100:00FF99&height=150&section=footer&reversal=true" alt="Footer wave"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ayushsyntax&style=for-the-badge&color=00FF99&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=ayushsyntax&style=for-the-badge&color=00FF99&label=Profile+Views" alt="Profile views"/>
 
 <br/>
 
-<img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/images/trophy.gif" width="60"/>
+<img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/images/trophy.gif" width="60" alt="Trophy gif"/>
 
 **<i>Always learning, always coding.</i>**
 
 </div>
 ```
+
