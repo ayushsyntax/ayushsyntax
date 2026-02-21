@@ -1,8 +1,7 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,50:00E5FF,100:8B5CF6&height=200&section=header&text=Ayush%20Kumar&fontSize=65&fontColor=ffffff&animation=twinkling&desc=Data%20Scientist%20%26%20ML%20Engineer&descSize=20&descAlignY=75" alt="header"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=Architecting+Intelligent+Systems;GenAI+%7C+RAG+%7C+MLOps+%7C+Deep+Learning;Building+AI+that+ships+to+production" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Kumar;Data+Scientist+%26+ML+Engineer;GenAI+%7C+RAG+%7C+MLOps+%7C+Deep+Learning;Building+AI+that+ships+to+production" alt="typing"/>
 
 <br/>
 
@@ -55,10 +54,6 @@ motto: "Code like a wizard, deploy like a boss."
 
 <img src="https://streak-stats.demolab.com?user=ayushsyntax&theme=radical&hide_border=true&border_radius=8" alt="streak"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsyntax&theme=rogue&hide_border=true&area=true" alt="activity graph"/>
-
 </div>
 
 ---
@@ -88,7 +83,7 @@ Time-series forecasting with MLflow, DVC, Docker, and AWS EC2/S3. Fully reproduc
 <td width="50%" valign="top">
 
 ### 🧬 GPT from Scratch
-Decoder-only Transformer trained on Shakespeare, reaching 3.02 perplexity. Custom attention, tokenization, and training loop—no shortcuts.
+Decoder-only Transformer trained on Shakespeare, reaching 3.02 perplexity. Custom attention, tokenization, and training loop — no shortcuts.
 
 [![View](https://img.shields.io/badge/View_Repo-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayushsyntax/gpt-from-scratch)
 
@@ -103,10 +98,6 @@ Self-reflective RAG engine inspired by HyDE and SEAL. Dynamic query expansion an
 </td>
 </tr>
 </table>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayushsyntax&theme=radical&no-bg=true&margin-w=12&margin-h=12&column=6&no-frame=true" alt="trophies"/>
-</div>
 
 ---
 
