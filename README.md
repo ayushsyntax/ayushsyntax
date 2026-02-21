@@ -1,20 +1,21 @@
 
-````md
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ayush%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20Scientist%20%26%20Machine%20Learning%20Engineer&descAlignY=60&descSize=22&reversal=true"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=800&lines=Architecting+Intelligent+Systems;GenAI+•+RAG+•+MLOps+•+Deep+Learning;From+Data+to+Deployment:+End-to-End+AI+Innovation)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=800&lines=Architecting+Intelligent+Systems;GenAI+•+RAG+•+MLOps+•+Deep+Learning;From+Data+to+Deployment:+End-to-End+AI+Innovation"/>
 <br/>
-<a href="https://www.linkedin.com/in/ayushsyntax"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/ayushsyntax"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://kaggle.com/ayushsyntax"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-<a href="https://x.com/AyushSyntax"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-<a href="mailto:ayushsyntax@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ayushsyntax"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ayushsyntax"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://kaggle.com/ayushsyntax"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://x.com/AyushSyntax"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:ayushsyntax@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🚀 About Me
+
 ```yaml
 name: Ayush Kumar
 role: Data Scientist & Machine Learning Engineer
@@ -26,18 +27,18 @@ superpowers:
   - Deploying scalable ML systems on cloud
   - Diving deep into model internals for true understanding
 motto: "Code like a wizard, deploy like a boss. Innovate relentlessly."
-````
+```
 
 I'm passionate about transforming raw data into intelligent systems that solve real-world problems. From building GPTs from scratch to orchestrating complex RAG pipelines, I thrive on creating AI that's not just smart, but reliable and explainable.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsyntax&layout=compact&theme=radical&langs_count=8" />
-<img src="https://streak-stats.demolab.com?user=ayushsyntax&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsyntax&layout=compact&theme=radical&langs_count=8"/>
+<img src="https://streak-stats.demolab.com?user=ayushsyntax&theme=radical"/>
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🌟 Featured Projects
 
@@ -46,42 +47,42 @@ I'm passionate about transforming raw data into intelligent systems that solve r
 <td width="50%" valign="top">
 <h3>🤖 Agentic Research Assistant</h3>
 <p>LangGraph-powered AI agent with persistent memory, tool integration, and LangSmith observability. Automates research workflows with human-in-the-loop capabilities.</p>
-<a href="https://github.com/ayushsyntax/agentic-research-assistant"><img src="https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/ayushsyntax/agentic-research-assistant"><img src="https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 <td width="50%" valign="top">
 <h3>🏠 End-to-End ML Pipeline</h3>
 <p>Time-series forecasting system with MLflow experiment tracking, DVC data versioning, Docker containerization, and AWS EC2/S3 deployment.</p>
-<a href="https://github.com/ayushsyntax/ml-pipeline"><img src="https://img.shields.io/badge/View%20Project-00FF7F?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/ayushsyntax/ml-pipeline"><img src="https://img.shields.io/badge/View%20Project-00FF7F?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3>🧬 GPT from Scratch</h3>
 <p>Implemented a decoder-only Transformer architecture from the ground up, trained on Shakespeare dataset achieving 3.02 perplexity. Includes custom attention mechanisms and optimizations.</p>
-<a href="https://github.com/ayushsyntax/gpt-from-scratch"><img src="https://img.shields.io/badge/View%20Project-FFD700?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/ayushsyntax/gpt-from-scratch"><img src="https://img.shields.io/badge/View%20Project-FFD700?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 <td width="50%" valign="top">
 <h3>🔄 Reasona</h3>
 <p>Self-reflective RAG system inspired by HyDE and SEAL, with dynamic query expansion and multi-stage reasoning for improved retrieval accuracy.</p>
-<a href="https://github.com/ayushsyntax/reasona"><img src="https://img.shields.io/badge/View%20Project-4169E1?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/ayushsyntax/reasona"><img src="https://img.shields.io/badge/View%20Project-4169E1?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayushsyntax&theme=radical&no-bg=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=ayushsyntax&theme=radical&no-bg=true&margin-w=15&margin-h=15"/>
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🛠️ Tech Arsenal
 
 <details open>
 <summary><b>🧑‍💻 Programming Languages</b></summary>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </details>
 
@@ -95,7 +96,7 @@ I'm passionate about transforming raw data into intelligent systems that solve r
 
 <details open>
 <summary><b>🤖 Machine Learning & Deep Learning</b></summary>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </details>
@@ -113,20 +114,20 @@ I'm passionate about transforming raw data into intelligent systems that solve r
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </details>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&theme=radical&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&theme=radical&rank_icon=github"/>
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 <b>Fueling the future with AI that thinks, learns, and evolves.</b><br/><br/>
@@ -144,5 +145,4 @@ I'm passionate about transforming raw data into intelligent systems that solve r
 <p><i>Always learning, always coding.</i></p>
 </div>
 ```
-
 
