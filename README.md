@@ -175,4 +175,4 @@ Self-reflective RAG engine inspired by HyDE and SEAL. Dynamic query expansion an
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:00E5FF,100:00FF99&height=120&section=footer" alt="footer"/>
 
 </div>
-```
+
