@@ -1,148 +1,129 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Ayush%20Kumar&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%26%20Machine%20Learning%20Engineer&descAlignY=55&descSize=18"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Building+Production-Ready+AI+Systems;GenAI+•+RAG+•+MLOps+•+Deep+Learning;End-to-End+ML+Pipelines+•+Agentic+Workflows+•+Model+Deployment)](https://git.io/typing-svg)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ayush%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20Scientist%20%26%20Machine%20Learning%20Engineer&descAlignY=60&descSize=22&reversal=true"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=800&lines=Architecting+Intelligent+Systems;GenAI+•+RAG+•+MLOps+•+Deep+Learning;From+Data+to+Deployment:+End-to-End+AI+Innovation)](https://git.io/typing-svg)
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsyntax)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsyntax)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ayushsyntax)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AyushSyntax)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsyntax@gmail.com)
-
+<a href="https://www.linkedin.com/in/ayushsyntax"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2"></a>
+<a href="https://github.com/ayushsyntax"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717"></a>
+<a href="https://kaggle.com/ayushsyntax"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF&color=20BEFF"></a>
+<a href="https://x.com/AyushSyntax"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=000000"></a>
+<a href="mailto:ayushsyntax@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335"></a>
 </div>
-
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> About Me
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## <img src="https://media.giphy.com/media/3o7TKnO6XrCBJ0vY5W/giphy.gif" width="35"> 🚀 About Me
 ```yaml
 name: Ayush Kumar
 role: Data Scientist & Machine Learning Engineer
 education: B.Tech in Artificial Intelligence & Data Science
 university: Kurukshetra University
-
-focus_areas:
-  - End-to-end ML pipelines
-  - Production RAG systems
-  - Agentic AI workflows
-  - MLOps & Model observability
-  - Deep Learning architectures
-
-philosophy: "Build from scratch. Understand deeply. Deploy reliably."
+superpowers:
+  - Crafting production-grade AI pipelines
+  - Mastering agentic workflows with memory & observability
+  - Deploying scalable ML systems on cloud
+  - Diving deep into model internals for true understanding
+motto: "Code like a wizard, deploy like a boss. Innovate relentlessly."
 ```
+I'm passionate about transforming raw data into intelligent systems that solve real-world problems. From building GPTs from scratch to orchestrating complex RAG pipelines, I thrive on creating AI that's not just smart, but reliable and explainable.
 
-I build machine learning systems from data to deployment, focusing on production-ready pipelines, agentic AI systems, and understanding model behavior beyond surface-level metrics.
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsyntax&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsyntax&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40"> 🌟 Featured Projects
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🤖 Agentic Research Assistant
-LangGraph-based agentic AI system with persistent memory and full observability.
-
+<h3>🤖 Agentic Research Assistant</h3>
+<p>LangGraph-powered AI agent with persistent memory, tool integration, and LangSmith observability. Automates research workflows with human-in-the-loop capabilities.</p>
+<a href="https://github.com/ayushsyntax/agentic-research-assistant"><img src="https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white"></a>
 </td>
 <td width="50%" valign="top">
-
-### 🏠 End-to-End ML Pipeline
-Time-aware ML system with MLflow tracking, Docker deployment, and AWS infrastructure.
-
+<h3>🏠 End-to-End ML Pipeline</h3>
+<p>Time-series forecasting system with MLflow experiment tracking, DVC data versioning, Docker containerization, and AWS EC2/S3 deployment.</p>
+<a href="https://github.com/ayushsyntax/ml-pipeline"><img src="https://img.shields.io/badge/View%20Project-00FF7F?style=for-the-badge&logo=github&logoColor=white"></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🧬 GPT from Scratch
-Decoder-only Transformer trained on Shakespeare (Perplexity: 3.02).
-
+<h3>🧬 GPT from Scratch</h3>
+<p>Implemented a decoder-only Transformer architecture from the ground up, trained on Shakespeare dataset achieving 3.02 perplexity. Includes custom attention mechanisms and optimizations.</p>
+<a href="https://github.com/ayushsyntax/gpt-from-scratch"><img src="https://img.shields.io/badge/View%20Project-FFD700?style=for-the-badge&logo=github&logoColor=white"></a>
 </td>
 <td width="50%" valign="top">
-
-### 🔄 Reasona
-Self-improving RAG using HyDE + SEAL-inspired architecture.
-
+<h3>🔄 Reasona</h3>
+<p>Self-reflective RAG system inspired by HyDE and SEAL, with dynamic query expansion and multi-stage reasoning for improved retrieval accuracy.</p>
+<a href="https://github.com/ayushsyntax/reasona"><img src="https://img.shields.io/badge/View%20Project-4169E1?style=for-the-badge&logo=github&logoColor=white"></a>
 </td>
 </tr>
 </table>
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
-
-<details open>
-<summary><b>Programming Languages</b></summary>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Data Science & Analytics</b></summary>
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-</details>
-
-<details open>
-<summary><b>Machine Learning & Deep Learning</b></summary>
-
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>GenAI & LLM Stack</b></summary>
-
-![LangChain](https://img.shields.io/badge/LangChain-2E7D32?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
-![LangSmith](https://img.shields.io/badge/LangSmith-1F2937?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge)
-
-</details>
-
-<details open>
-<summary><b>MLOps & Deployment</b></summary>
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</details>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ayushsyntax&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35"> 🛠️ Tech Arsenal
+<details open>
+<summary><b>🧑‍💻 Programming Languages</b></summary>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</details>
+<details open>
+<summary><b>📊 Data Science & Analytics</b></summary>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+</details>
+<details open>
+<summary><b>🤖 Machine Learning & Deep Learning</b></summary>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</details>
+<details open>
+<summary><b>🚀 GenAI & LLM Stack</b></summary>
+<img src="https://img.shields.io/badge/LangChain-2E7D32?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LangSmith-1F2937?style=for-the-badge&logo=langsmith&logoColor=white" alt="LangSmith"/>
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge&logo=rag&logoColor=white" alt="RAG"/>
+</details>
+<details open>
+<summary><b>⚙️ MLOps & Deployment</b></summary>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</details>
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ayushsyntax&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</div>
 
-**Building systems that are practical, explainable, and genuinely useful.**
+---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+**Fueling the future with AI that thinks, learns, and evolves. Let's connect and build something epic!** 🌌
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/2022-06-10/Cover.jpg" width="100%" alt="Epic Banner"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&reversal=true"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushsyntax&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/images/trophy.gif" width="50" alt="Trophy"/>
+  <p><i>Always learning, always coding.</i></p>
 </div>
