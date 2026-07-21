@@ -8,7 +8,7 @@
 <tr>
 <td width="30%" valign="top" align="center">
 
-<img src="https://avatars.githubusercontent.com/ayushsyntax" width="180" style="border-radius:50%" alt="avatar"/>
+<img src="https://raw.githubusercontent.com/ayushsyntax/ayushsyntax/main/assets/profile.jpg" width="180" style="border-radius:50%" alt="avatar"/>
 
 ### Ayush Kumar
 **ayushsyntax**
