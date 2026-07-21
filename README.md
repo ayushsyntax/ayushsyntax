@@ -32,7 +32,6 @@
 identity:
   username: ayushsyntax
   role: Data Scientist & Machine Learning Engineer
-  base: Panipat, Haryana, India
   education: B.Tech in Artificial Intelligence & Data Science
   current_mode: Building reliable AI products, not just demos
 
